@@ -1,0 +1,10 @@
+{
+  "train_rows_2025": 149,
+  "temporal_rows_2026_Q1": 103,
+  "predictor_count": 26,
+  "false_negatives_2026_Q1": 60,
+  "false_positives_2026_Q1": 1,
+  "new_controls_2026_Q1": 16,
+  "threshold_changed": false,
+  "model_retrained": false
+}

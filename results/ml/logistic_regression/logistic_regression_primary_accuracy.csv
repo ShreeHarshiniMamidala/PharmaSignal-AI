@@ -1,0 +1,2 @@
+model,evaluation,accuracy
+Logistic Regression,2025_5fold_stratified_oof,0.6912751677852349

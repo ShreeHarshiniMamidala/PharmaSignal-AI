@@ -1,0 +1,11 @@
+Finding,Result
+Best 2025 ML accuracy,Random Forest – 77.85%
+Best 2025 AUROC,Random Forest – 0.8337
+Best 2025 PR-AUC,Random Forest – 0.9028
+Best traditional 2025 AUROC,ROR – 0.5346
+Best traditional 2025 PR-AUC,ROR – 0.6252
+Best 2026 Q1 ML AUROC,Gradient Boosting – 0.7438
+Best 2026 Q1 ML PR-AUC,Gradient Boosting – 0.8846
+Best 2026 Q1 F1,Gradient Boosting – 0.8387
+Best 2025 Precision@10,LR / RF / GB – 1.00
+Best 2026 Q1 Precision@10,LR / GB – 1.00

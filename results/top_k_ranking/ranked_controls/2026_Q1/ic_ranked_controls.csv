@@ -1,0 +1,104 @@
+reference_control_key,groundTruth,score,exposureName,outcomeName,standardized_outcome,dataset,method,rank
+990499__500000801,0,8.535867093779897,"Sodium Phosphate, Monobasic",OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,1
+19049105__500001003,1,8.086185091149222,Potassium Chloride,HOI Upper GI #3,GI Bleed,2026_Q1,IC,2
+1715472__500000801,0,7.530075068438963,Nelfinavir,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,3
+1156378__500000801,1,7.028907105060015,Flurbiprofen,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,4
+1724869__500000801,0,6.682078161884013,Didanosine,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,5
+1769389__500000801,0,6.682078161884013,Nevirapine,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,6
+1781406__500000801,0,6.682078161884013,Stavudine,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,7
+1318853__500000801,1,6.666337025675307,Nifedipine,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,8
+739138__500001003,1,6.659574490816585,Sertraline,HOI Upper GI #3,GI Bleed,2026_Q1,IC,9
+795661__500000301,1,6.646395509302619,felbamate,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,10
+1178663__500001003,1,6.505630554262373,Indomethacin,HOI Upper GI #3,GI Bleed,2026_Q1,IC,11
+19028050__500000301,1,6.324467414415257,Penicillamine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,12
+1396012__500000801,0,6.196651334713772,ferrous gluconate,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,13
+19008009__500000401,0,6.045852997114005,Cosyntropin,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,14
+1322184__500001003,1,5.8572402097926775,clopidogrel,HOI Upper GI #3,GI Bleed,2026_Q1,IC,15
+1036228__500001003,0,5.721757065543932,Sucralfate,HOI Upper GI #3,GI Bleed,2026_Q1,IC,16
+1304643__500000801,1,5.554975916727603,darbepoetin alfa,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,17
+1195492__500000401,1,5.460890496392849,Etodolac,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,18
+1154077__500000801,1,5.332951107838268,rizatriptan,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,19
+1301125__500000801,1,5.0971156611628565,Epoetin Alfa,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,20
+1118084__500000301,1,5.064231641934136,celecoxib,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,21
+1332418__500000801,1,4.989378740873378,Amlodipine,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,22
+1149380__500000801,0,4.867915228387711,fluticasone,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,23
+920293__500000301,1,4.839040587245015,Nitrofurantoin,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,24
+1782521__500000301,1,4.748275123321832,isoniazid,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,25
+1334456__500000301,1,4.741692472931865,Ramipril,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,26
+1738135__500000301,1,4.7395049136941,efavirenz,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,27
+1177480__500000401,1,4.725255605153133,Ibuprofen,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,28
+715939__500001003,1,4.614659513739969,Escitalopram,HOI Upper GI #3,GI Bleed,2026_Q1,IC,29
+1115008__500000301,1,4.579040241500855,Naproxen,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,30
+1115008__500001003,1,4.491751460097609,Naproxen,HOI Upper GI #3,GI Bleed,2026_Q1,IC,31
+1146810__500000301,1,4.43694214367367,Piroxicam,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,32
+1504620__500000801,0,4.391477184444724,Methimazole,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,33
+1312742__500000401,1,4.280318250751027,Olmesartan medoxomil,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,34
+1178663__500000801,1,4.249118754607906,Indomethacin,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,35
+1763779__500000401,0,4.2384980750564,Griseofulvin,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,36
+741530__500000301,1,4.1869638906653215,orlistat,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,37
+1140643__500000801,1,4.129078774472618,Sumatriptan,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,38
+1311409__500001003,0,4.080618415274682,Dacarbazine,HOI Upper GI #3,GI Bleed,2026_Q1,IC,39
+1136980__500001003,1,4.0381256350893935,Ketorolac,HOI Upper GI #3,GI Bleed,2026_Q1,IC,40
+1754994__500000301,1,4.006150573080273,Fluconazole,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,41
+1703687__500000401,1,3.975463669222607,Acyclovir,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,42
+1178663__500000301,1,3.891508007139151,Indomethacin,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,43
+735850__500000301,1,3.839040587245015,Disulfiram,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,44
+1185922__500000401,1,3.787928458229895,Ketoprofen,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,45
+974166__500000401,1,3.78658051007641,Hydrochlorothiazide,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,46
+1177480__500001003,1,3.65097272353413,Ibuprofen,HOI Upper GI #3,GI Bleed,2026_Q1,IC,47
+1318853__500000301,1,3.6284736013053567,Nifedipine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,48
+997881__500001003,1,3.5890063908882346,Clindamycin,HOI Upper GI #3,GI Bleed,2026_Q1,IC,49
+1436678__500000301,1,3.530918291882683,Tamoxifen,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,50
+1763204__500000301,1,3.468477717106776,Rifampin,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,51
+1308216__500000301,1,3.4313826183317686,Lisinopril,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,52
+1756831__500000401,0,3.40199680733928,darunavir,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,53
+1328165__500000301,1,3.268875088451939,Diltiazem,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,54
+1305447__500000301,1,3.186963890665321,Methyldopa,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,55
+987245__500000801,0,3.1220165094514964,Lactulose,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,56
+937368__500000301,1,3.1212122437950813,infliximab,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,57
+1305058__500000301,1,3.0623874876377064,Methotrexate,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,58
+1718054__500000301,1,3.031685665187411,Caspofungin,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,59
+1704139__500000301,1,3.021904644394825,posaconazole,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,60
+1150345__500001003,1,2.987362265200605,meloxicam,HOI Upper GI #3,GI Bleed,2026_Q1,IC,61
+987245__500001003,0,2.961310038038563,Lactulose,HOI Upper GI #3,GI Bleed,2026_Q1,IC,62
+1185922__500001003,1,2.960944729423358,Ketoprofen,HOI Upper GI #3,GI Bleed,2026_Q1,IC,63
+1746940__500000301,1,2.91847505473942,Erythromycin,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,64
+1136601__500000401,0,2.9165699801690383,benzonatate,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,65
+924724__500000801,0,2.874723239826409,Dicyclomine,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,66
+1741309__500000301,1,2.8650357957779597,terbinafine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,67
+1304107__500000301,1,2.794646467886561,imatinib,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,68
+1314924__500000301,1,2.717630414071338,gemcitabine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,69
+1704183__500000301,1,2.692199198915744,Lamivudine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,70
+1167322__500000401,1,2.690372342515616,Allopurinol,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,71
+924724__500000401,0,2.653535574335244,Dicyclomine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,72
+987245__500000301,0,2.569579912251788,Lactulose,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,73
+797617__500001003,1,2.547186215193607,Citalopram,HOI Upper GI #3,GI Bleed,2026_Q1,IC,74
+1308216__500000401,1,2.4158026068643106,Lisinopril,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,75
+745466__500000301,1,2.3984679958590336,Valproate,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,76
+1703653__500001003,0,2.3612945611497764,Itraconazole,HOI Upper GI #3,GI Bleed,2026_Q1,IC,77
+1177480__500000301,1,2.3159503313854,Ibuprofen,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,78
+1149380__500000301,0,2.315478631188002,fluticasone,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,79
+987245__500000401,0,2.290965494950536,Lactulose,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,80
+836715__500000401,0,2.280318250751028,Temazepam,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,81
+1714277__500000301,1,2.2540780865238585,voriconazole,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,82
+19010482__500000401,1,2.247992994424003,Cyclosporine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,83
+755695__500001003,1,2.14330787178145,Fluoxetine,HOI Upper GI #3,GI Bleed,2026_Q1,IC,84
+705103__500000301,1,1.9341141785170104,lamotrigine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,85
+721724__500000301,1,1.7395049136941003,Nortriptyline,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,86
+1580747__500000301,0,1.657710822530453,sitagliptin,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,87
+1797513__500000301,1,1.657710822530453,Ciprofloxacin,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,88
+1150345__500000401,1,1.61122476947728,meloxicam,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,89
+1311409__500000301,1,1.5911130738014294,Dacarbazine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,90
+1742253__500000301,1,1.4467231644662546,Levofloxacin,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,91
+1336825__500000301,1,1.4223938351045142,bortezomib,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,92
+19010482__500000301,1,1.233825662497409,Cyclosporine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,93
+1167322__500000301,1,1.2034520134538909,Allopurinol,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,94
+836715__500000801,0,1.1795778213548296,Temazepam,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2026_Q1,IC,95
+1115008__500000401,1,1.060959889504213,Naproxen,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,96
+985708__500000401,0,0.8961058776093225,Ketoconazole,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,97
+740275__500000301,1,0.8519796429525129,Carbamazepine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,98
+1333357__500000301,1,0.072748321809297,Busulfan,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,99
+800878__500000401,0,-0.0980767957953632,Clozapine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,100
+1351557__500000401,1,-0.1274077168915641,candesartan,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,101
+800878__500000301,1,-0.3048892056643529,Clozapine,OMOP Acute Liver Failure 1,Acute Liver Injury,2026_Q1,IC,102
+937368__500000401,0,-0.636871545380013,infliximab,OMOP Acute Renal Failure 1,Acute Kidney Injury,2026_Q1,IC,103

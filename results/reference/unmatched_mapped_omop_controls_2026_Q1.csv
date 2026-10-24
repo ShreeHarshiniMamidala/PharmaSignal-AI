@@ -1,0 +1,297 @@
+reference_control_key,omop_drug,omop_outcome,groundTruth
+ADENOSINE || ACUTE LIVER INJURY,Adenosine,Acute Liver Injury,0
+ALMOTRIPTAN || ACUTE LIVER INJURY,almotriptan,Acute Liver Injury,0
+AMYLASES || ACUTE LIVER INJURY,Amylases,Acute Liver Injury,0
+BENZOCAINE || ACUTE LIVER INJURY,Benzocaine,Acute Liver Injury,0
+BENZONATATE || ACUTE LIVER INJURY,benzonatate,Acute Liver Injury,0
+COSYNTROPIN || ACUTE LIVER INJURY,Cosyntropin,Acute Liver Injury,0
+DICYCLOMINE || ACUTE LIVER INJURY,Dicyclomine,Acute Liver Injury,0
+DROPERIDOL || ACUTE LIVER INJURY,Droperidol,Acute Liver Injury,0
+ENDOPEPTIDASES || ACUTE LIVER INJURY,Endopeptidases,Acute Liver Injury,0
+ERGOTAMINE || ACUTE LIVER INJURY,Ergotamine,Acute Liver Injury,0
+FERROUS GLUCONATE || ACUTE LIVER INJURY,ferrous gluconate,Acute Liver Injury,0
+FLAVOXATE || ACUTE LIVER INJURY,Flavoxate,Acute Liver Injury,0
+GATIFLOXACIN || ACUTE LIVER INJURY,gatifloxacin,Acute Liver Injury,0
+GRISEOFULVIN || ACUTE LIVER INJURY,Griseofulvin,Acute Liver Injury,0
+HYOSCYAMINE || ACUTE LIVER INJURY,Hyoscyamine,Acute Liver Injury,0
+KETOTIFEN || ACUTE LIVER INJURY,Ketotifen,Acute Liver Injury,0
+LIPASE || ACUTE LIVER INJURY,Lipase,Acute Liver Injury,0
+LITHIUM CITRATE || ACUTE LIVER INJURY,lithium citrate,Acute Liver Injury,0
+METHENAMINE || ACUTE LIVER INJURY,Methenamine,Acute Liver Injury,0
+MICONAZOLE || ACUTE LIVER INJURY,Miconazole,Acute Liver Injury,0
+NEOSTIGMINE || ACUTE LIVER INJURY,Neostigmine,Acute Liver Injury,0
+OXYBUTYNIN || ACUTE LIVER INJURY,oxybutynin,Acute Liver Injury,0
+PAROMOMYCIN || ACUTE LIVER INJURY,Paromomycin,Acute Liver Injury,0
+PENICILLIN V || ACUTE LIVER INJURY,Penicillin V,Acute Liver Injury,0
+PHENTERMINE || ACUTE LIVER INJURY,Phentermine,Acute Liver Injury,0
+PHENTOLAMINE || ACUTE LIVER INJURY,Phentolamine,Acute Liver Injury,0
+PRIMIDONE || ACUTE LIVER INJURY,Primidone,Acute Liver Injury,0
+PROPANTHELINE || ACUTE LIVER INJURY,Propantheline,Acute Liver Injury,0
+SALMETEROL || ACUTE LIVER INJURY,salmeterol,Acute Liver Injury,0
+SCOPOLAMINE || ACUTE LIVER INJURY,Scopolamine,Acute Liver Injury,0
+SODIUM PHOSPHATE MONOBASIC || ACUTE LIVER INJURY,"Sodium Phosphate, Monobasic",Acute Liver Injury,0
+SUCRALFATE || ACUTE LIVER INJURY,Sucralfate,Acute Liver Injury,0
+TETRAHYDROCANNABINOL || ACUTE LIVER INJURY,Tetrahydrocannabinol,Acute Liver Injury,0
+TINIDAZOLE || ACUTE LIVER INJURY,Tinidazole,Acute Liver Injury,0
+ACARBOSE || ACUTE KIDNEY INJURY,Acarbose,Acute Kidney Injury,0
+ADENOSINE || ACUTE KIDNEY INJURY,Adenosine,Acute Kidney Injury,0
+ALMOTRIPTAN || ACUTE KIDNEY INJURY,almotriptan,Acute Kidney Injury,0
+AMYLASES || ACUTE KIDNEY INJURY,Amylases,Acute Kidney Injury,0
+BENZOCAINE || ACUTE KIDNEY INJURY,Benzocaine,Acute Kidney Injury,0
+BROMFENAC || ACUTE KIDNEY INJURY,bromfenac,Acute Kidney Injury,0
+CHLORAMBUCIL || ACUTE KIDNEY INJURY,Chlorambucil,Acute Kidney Injury,0
+CHLORAZEPATE || ACUTE KIDNEY INJURY,Chlorazepate,Acute Kidney Injury,0
+DACARBAZINE || ACUTE KIDNEY INJURY,Dacarbazine,Acute Kidney Injury,0
+DARBEPOETIN ALFA || ACUTE KIDNEY INJURY,darbepoetin alfa,Acute Kidney Injury,0
+DARIFENACIN || ACUTE KIDNEY INJURY,darifenacin,Acute Kidney Injury,0
+DISULFIRAM || ACUTE KIDNEY INJURY,Disulfiram,Acute Kidney Injury,0
+ELETRIPTAN || ACUTE KIDNEY INJURY,eletriptan,Acute Kidney Injury,0
+ENDOPEPTIDASES || ACUTE KIDNEY INJURY,Endopeptidases,Acute Kidney Injury,0
+ENTECAVIR || ACUTE KIDNEY INJURY,entecavir,Acute Kidney Injury,0
+ERGOTAMINE || ACUTE KIDNEY INJURY,Ergotamine,Acute Kidney Injury,0
+FERROUS GLUCONATE || ACUTE KIDNEY INJURY,ferrous gluconate,Acute Kidney Injury,0
+FLAVOXATE || ACUTE KIDNEY INJURY,Flavoxate,Acute Kidney Injury,0
+FLUTAMIDE || ACUTE KIDNEY INJURY,Flutamide,Acute Kidney Injury,0
+FROVATRIPTAN || ACUTE KIDNEY INJURY,frovatriptan,Acute Kidney Injury,0
+GATIFLOXACIN || ACUTE KIDNEY INJURY,gatifloxacin,Acute Kidney Injury,0
+HYOSCYAMINE || ACUTE KIDNEY INJURY,Hyoscyamine,Acute Kidney Injury,0
+IMIPRAMINE || ACUTE KIDNEY INJURY,Imipramine,Acute Kidney Injury,0
+KETOTIFEN || ACUTE KIDNEY INJURY,Ketotifen,Acute Kidney Injury,0
+LIPASE || ACUTE KIDNEY INJURY,Lipase,Acute Kidney Injury,0
+LORATADINE || ACUTE KIDNEY INJURY,Loratadine,Acute Kidney Injury,0
+MEBENDAZOLE || ACUTE KIDNEY INJURY,Mebendazole,Acute Kidney Injury,0
+METAXALONE || ACUTE KIDNEY INJURY,metaxalone,Acute Kidney Injury,0
+METHENAMINE || ACUTE KIDNEY INJURY,Methenamine,Acute Kidney Injury,0
+METHOCARBAMOL || ACUTE KIDNEY INJURY,Methocarbamol,Acute Kidney Injury,0
+MICONAZOLE || ACUTE KIDNEY INJURY,Miconazole,Acute Kidney Injury,0
+NELFINAVIR || ACUTE KIDNEY INJURY,Nelfinavir,Acute Kidney Injury,0
+NEOSTIGMINE || ACUTE KIDNEY INJURY,Neostigmine,Acute Kidney Injury,0
+NORTRIPTYLINE || ACUTE KIDNEY INJURY,Nortriptyline,Acute Kidney Injury,0
+ORLISTAT || ACUTE KIDNEY INJURY,orlistat,Acute Kidney Injury,0
+PAROMOMYCIN || ACUTE KIDNEY INJURY,Paromomycin,Acute Kidney Injury,0
+PENICILLIN V || ACUTE KIDNEY INJURY,Penicillin V,Acute Kidney Injury,0
+PHENTERMINE || ACUTE KIDNEY INJURY,Phentermine,Acute Kidney Injury,0
+PHENTOLAMINE || ACUTE KIDNEY INJURY,Phentolamine,Acute Kidney Injury,0
+PRILOCAINE || ACUTE KIDNEY INJURY,Prilocaine,Acute Kidney Injury,0
+PRIMIDONE || ACUTE KIDNEY INJURY,Primidone,Acute Kidney Injury,0
+PROCHLORPERAZINE || ACUTE KIDNEY INJURY,Prochlorperazine,Acute Kidney Injury,0
+RAMELTEON || ACUTE KIDNEY INJURY,ramelteon,Acute Kidney Injury,0
+RIZATRIPTAN || ACUTE KIDNEY INJURY,rizatriptan,Acute Kidney Injury,0
+SCOPOLAMINE || ACUTE KIDNEY INJURY,Scopolamine,Acute Kidney Injury,0
+SIMETHICONE || ACUTE KIDNEY INJURY,Simethicone,Acute Kidney Injury,0
+SODIUM PHOSPHATE MONOBASIC || ACUTE KIDNEY INJURY,"Sodium Phosphate, Monobasic",Acute Kidney Injury,0
+TETRAHYDROCANNABINOL || ACUTE KIDNEY INJURY,Tetrahydrocannabinol,Acute Kidney Injury,0
+THIABENDAZOLE || ACUTE KIDNEY INJURY,Thiabendazole,Acute Kidney Injury,0
+THIOTHIXENE || ACUTE KIDNEY INJURY,Thiothixene,Acute Kidney Injury,0
+TINIDAZOLE || ACUTE KIDNEY INJURY,Tinidazole,Acute Kidney Injury,0
+UREA || ACUTE KIDNEY INJURY,Urea,Acute Kidney Injury,0
+VITAMIN A || ACUTE KIDNEY INJURY,Vitamin A,Acute Kidney Injury,0
+ZAFIRLUKAST || ACUTE KIDNEY INJURY,zafirlukast,Acute Kidney Injury,0
+ACARBOSE || ACUTE MYOCARDIAL INFARCTION,Acarbose,Acute Myocardial Infarction,0
+ACETAZOLAMIDE || ACUTE MYOCARDIAL INFARCTION,Acetazolamide,Acute Myocardial Infarction,0
+AMYLASES || ACUTE MYOCARDIAL INFARCTION,Amylases,Acute Myocardial Infarction,0
+BENZONATATE || ACUTE MYOCARDIAL INFARCTION,benzonatate,Acute Myocardial Infarction,0
+BROMFENAC || ACUTE MYOCARDIAL INFARCTION,bromfenac,Acute Myocardial Infarction,0
+CHLORAMBUCIL || ACUTE MYOCARDIAL INFARCTION,Chlorambucil,Acute Myocardial Infarction,0
+CHLORAZEPATE || ACUTE MYOCARDIAL INFARCTION,Chlorazepate,Acute Myocardial Infarction,0
+CHLOROTHIAZIDE || ACUTE MYOCARDIAL INFARCTION,Chlorothiazide,Acute Myocardial Infarction,0
+CLINDAMYCIN || ACUTE MYOCARDIAL INFARCTION,Clindamycin,Acute Myocardial Infarction,0
+COSYNTROPIN || ACUTE MYOCARDIAL INFARCTION,Cosyntropin,Acute Myocardial Infarction,0
+DARIFENACIN || ACUTE MYOCARDIAL INFARCTION,darifenacin,Acute Myocardial Infarction,0
+DROPERIDOL || ACUTE MYOCARDIAL INFARCTION,Droperidol,Acute Myocardial Infarction,0
+ENDOPEPTIDASES || ACUTE MYOCARDIAL INFARCTION,Endopeptidases,Acute Myocardial Infarction,0
+ENTECAVIR || ACUTE MYOCARDIAL INFARCTION,entecavir,Acute Myocardial Infarction,0
+FLAVOXATE || ACUTE MYOCARDIAL INFARCTION,Flavoxate,Acute Myocardial Infarction,0
+FLUTAMIDE || ACUTE MYOCARDIAL INFARCTION,Flutamide,Acute Myocardial Infarction,0
+GATIFLOXACIN || ACUTE MYOCARDIAL INFARCTION,gatifloxacin,Acute Myocardial Infarction,0
+HYOSCYAMINE || ACUTE MYOCARDIAL INFARCTION,Hyoscyamine,Acute Myocardial Infarction,0
+KETOCONAZOLE || ACUTE MYOCARDIAL INFARCTION,Ketoconazole,Acute Myocardial Infarction,0
+KETOTIFEN || ACUTE MYOCARDIAL INFARCTION,Ketotifen,Acute Myocardial Infarction,0
+LIPASE || ACUTE MYOCARDIAL INFARCTION,Lipase,Acute Myocardial Infarction,0
+LITHIUM CITRATE || ACUTE MYOCARDIAL INFARCTION,lithium citrate,Acute Myocardial Infarction,0
+LORATADINE || ACUTE MYOCARDIAL INFARCTION,Loratadine,Acute Myocardial Infarction,0
+MEBENDAZOLE || ACUTE MYOCARDIAL INFARCTION,Mebendazole,Acute Myocardial Infarction,0
+METAXALONE || ACUTE MYOCARDIAL INFARCTION,metaxalone,Acute Myocardial Infarction,0
+METHENAMINE || ACUTE MYOCARDIAL INFARCTION,Methenamine,Acute Myocardial Infarction,0
+METHOCARBAMOL || ACUTE MYOCARDIAL INFARCTION,Methocarbamol,Acute Myocardial Infarction,0
+MICONAZOLE || ACUTE MYOCARDIAL INFARCTION,Miconazole,Acute Myocardial Infarction,0
+OXYBUTYNIN || ACUTE MYOCARDIAL INFARCTION,oxybutynin,Acute Myocardial Infarction,0
+PAROMOMYCIN || ACUTE MYOCARDIAL INFARCTION,Paromomycin,Acute Myocardial Infarction,0
+PEMOLINE || ACUTE MYOCARDIAL INFARCTION,Pemoline,Acute Myocardial Infarction,0
+PENICILLAMINE || ACUTE MYOCARDIAL INFARCTION,Penicillamine,Acute Myocardial Infarction,0
+PENICILLIN V || ACUTE MYOCARDIAL INFARCTION,Penicillin V,Acute Myocardial Infarction,0
+POSACONAZOLE || ACUTE MYOCARDIAL INFARCTION,posaconazole,Acute Myocardial Infarction,0
+PRILOCAINE || ACUTE MYOCARDIAL INFARCTION,Prilocaine,Acute Myocardial Infarction,0
+PRIMIDONE || ACUTE MYOCARDIAL INFARCTION,Primidone,Acute Myocardial Infarction,0
+PROCHLORPERAZINE || ACUTE MYOCARDIAL INFARCTION,Prochlorperazine,Acute Myocardial Infarction,0
+PROPANTHELINE || ACUTE MYOCARDIAL INFARCTION,Propantheline,Acute Myocardial Infarction,0
+RAMELTEON || ACUTE MYOCARDIAL INFARCTION,ramelteon,Acute Myocardial Infarction,0
+SALMETEROL || ACUTE MYOCARDIAL INFARCTION,salmeterol,Acute Myocardial Infarction,0
+SCOPOLAMINE || ACUTE MYOCARDIAL INFARCTION,Scopolamine,Acute Myocardial Infarction,0
+SIMETHICONE || ACUTE MYOCARDIAL INFARCTION,Simethicone,Acute Myocardial Infarction,0
+SITAGLIPTIN || ACUTE MYOCARDIAL INFARCTION,sitagliptin,Acute Myocardial Infarction,0
+SUCRALFATE || ACUTE MYOCARDIAL INFARCTION,Sucralfate,Acute Myocardial Infarction,0
+SULFASALAZINE || ACUTE MYOCARDIAL INFARCTION,Sulfasalazine,Acute Myocardial Infarction,0
+SULFISOXAZOLE || ACUTE MYOCARDIAL INFARCTION,Sulfisoxazole,Acute Myocardial Infarction,0
+TERBINAFINE || ACUTE MYOCARDIAL INFARCTION,terbinafine,Acute Myocardial Infarction,0
+TETRAHYDROCANNABINOL || ACUTE MYOCARDIAL INFARCTION,Tetrahydrocannabinol,Acute Myocardial Infarction,0
+THIABENDAZOLE || ACUTE MYOCARDIAL INFARCTION,Thiabendazole,Acute Myocardial Infarction,0
+THIOTHIXENE || ACUTE MYOCARDIAL INFARCTION,Thiothixene,Acute Myocardial Infarction,0
+TINIDAZOLE || ACUTE MYOCARDIAL INFARCTION,Tinidazole,Acute Myocardial Infarction,0
+TIPRANAVIR || ACUTE MYOCARDIAL INFARCTION,tipranavir,Acute Myocardial Infarction,0
+UREA || ACUTE MYOCARDIAL INFARCTION,Urea,Acute Myocardial Infarction,0
+VITAMIN A || ACUTE MYOCARDIAL INFARCTION,Vitamin A,Acute Myocardial Infarction,0
+ZAFIRLUKAST || ACUTE MYOCARDIAL INFARCTION,zafirlukast,Acute Myocardial Infarction,0
+ABACAVIR || GI BLEED,abacavir,GI Bleed,0
+ACARBOSE || GI BLEED,Acarbose,GI Bleed,0
+ADENOSINE || GI BLEED,Adenosine,GI Bleed,0
+AMYLASES || GI BLEED,Amylases,GI Bleed,0
+BENZOCAINE || GI BLEED,Benzocaine,GI Bleed,0
+BENZONATATE || GI BLEED,benzonatate,GI Bleed,0
+BROMFENAC || GI BLEED,bromfenac,GI Bleed,0
+CHLORAMBUCIL || GI BLEED,Chlorambucil,GI Bleed,0
+CHLORAZEPATE || GI BLEED,Chlorazepate,GI Bleed,0
+COSYNTROPIN || GI BLEED,Cosyntropin,GI Bleed,0
+DARIFENACIN || GI BLEED,darifenacin,GI Bleed,0
+DICYCLOMINE || GI BLEED,Dicyclomine,GI Bleed,0
+DISULFIRAM || GI BLEED,Disulfiram,GI Bleed,0
+DROPERIDOL || GI BLEED,Droperidol,GI Bleed,0
+ENDOPEPTIDASES || GI BLEED,Endopeptidases,GI Bleed,0
+ENTECAVIR || GI BLEED,entecavir,GI Bleed,0
+EPOETIN ALFA || GI BLEED,Epoetin Alfa,GI Bleed,0
+ERGOTAMINE || GI BLEED,Ergotamine,GI Bleed,0
+FERROUS GLUCONATE || GI BLEED,ferrous gluconate,GI Bleed,0
+FLUTICASONE || GI BLEED,fluticasone,GI Bleed,0
+GRISEOFULVIN || GI BLEED,Griseofulvin,GI Bleed,0
+HYOSCYAMINE || GI BLEED,Hyoscyamine,GI Bleed,0
+KETOCONAZOLE || GI BLEED,Ketoconazole,GI Bleed,0
+KETOTIFEN || GI BLEED,Ketotifen,GI Bleed,0
+LAMIVUDINE || GI BLEED,Lamivudine,GI Bleed,0
+LIPASE || GI BLEED,Lipase,GI Bleed,0
+LITHIUM CITRATE || GI BLEED,lithium citrate,GI Bleed,0
+LORATADINE || GI BLEED,Loratadine,GI Bleed,0
+MEBENDAZOLE || GI BLEED,Mebendazole,GI Bleed,0
+METAXALONE || GI BLEED,metaxalone,GI Bleed,0
+METHOCARBAMOL || GI BLEED,Methocarbamol,GI Bleed,0
+MICONAZOLE || GI BLEED,Miconazole,GI Bleed,0
+MOEXIPRIL || GI BLEED,moexipril,GI Bleed,0
+NEOSTIGMINE || GI BLEED,Neostigmine,GI Bleed,0
+NEVIRAPINE || GI BLEED,Nevirapine,GI Bleed,0
+NITROFURANTOIN || GI BLEED,Nitrofurantoin,GI Bleed,0
+ORLISTAT || GI BLEED,orlistat,GI Bleed,0
+OXYBUTYNIN || GI BLEED,oxybutynin,GI Bleed,0
+PAROMOMYCIN || GI BLEED,Paromomycin,GI Bleed,0
+PEMOLINE || GI BLEED,Pemoline,GI Bleed,0
+PENICILLIN V || GI BLEED,Penicillin V,GI Bleed,0
+PHENTERMINE || GI BLEED,Phentermine,GI Bleed,0
+PHENTOLAMINE || GI BLEED,Phentolamine,GI Bleed,0
+PIOGLITAZONE || GI BLEED,pioglitazone,GI Bleed,0
+PRILOCAINE || GI BLEED,Prilocaine,GI Bleed,0
+PROCHLORPERAZINE || GI BLEED,Prochlorperazine,GI Bleed,0
+PROPANTHELINE || GI BLEED,Propantheline,GI Bleed,0
+RAMELTEON || GI BLEED,ramelteon,GI Bleed,0
+ROSIGLITAZONE || GI BLEED,rosiglitazone,GI Bleed,0
+SALMETEROL || GI BLEED,salmeterol,GI Bleed,0
+SCOPOLAMINE || GI BLEED,Scopolamine,GI Bleed,0
+SIMETHICONE || GI BLEED,Simethicone,GI Bleed,0
+SITAGLIPTIN || GI BLEED,sitagliptin,GI Bleed,0
+STAVUDINE || GI BLEED,Stavudine,GI Bleed,0
+TEMAZEPAM || GI BLEED,Temazepam,GI Bleed,0
+TERBINAFINE || GI BLEED,terbinafine,GI Bleed,0
+TETRAHYDROCANNABINOL || GI BLEED,Tetrahydrocannabinol,GI Bleed,0
+THIABENDAZOLE || GI BLEED,Thiabendazole,GI Bleed,0
+THIOTHIXENE || GI BLEED,Thiothixene,GI Bleed,0
+TINIDAZOLE || GI BLEED,Tinidazole,GI Bleed,0
+UREA || GI BLEED,Urea,GI Bleed,0
+VITAMIN A || GI BLEED,Vitamin A,GI Bleed,0
+ZIDOVUDINE || GI BLEED,Zidovudine,GI Bleed,0
+ABACAVIR || ACUTE LIVER INJURY,abacavir,Acute Liver Injury,1
+ACETAZOLAMIDE || ACUTE LIVER INJURY,Acetazolamide,Acute Liver Injury,1
+ALATROFLOXACIN || ACUTE LIVER INJURY,alatrofloxacin,Acute Liver Injury,1
+BOSENTAN || ACUTE LIVER INJURY,bosentan,Acute Liver Injury,1
+CAPTOPRIL || ACUTE LIVER INJURY,Captopril,Acute Liver Injury,1
+DARUNAVIR || ACUTE LIVER INJURY,darunavir,Acute Liver Injury,1
+DIDANOSINE || ACUTE LIVER INJURY,Didanosine,Acute Liver Injury,1
+ENALAPRILAT || ACUTE LIVER INJURY,Enalaprilat,Acute Liver Injury,1
+ETODOLAC || ACUTE LIVER INJURY,Etodolac,Acute Liver Injury,1
+FLUTAMIDE || ACUTE LIVER INJURY,Flutamide,Acute Liver Injury,1
+GEMIFLOXACIN || ACUTE LIVER INJURY,gemifloxacin,Acute Liver Injury,1
+INTERFERON BETA 1A || ACUTE LIVER INJURY,Interferon beta-1a,Acute Liver Injury,1
+ITRACONAZOLE || ACUTE LIVER INJURY,Itraconazole,Acute Liver Injury,1
+KETOROLAC || ACUTE LIVER INJURY,Ketorolac,Acute Liver Injury,1
+METHIMAZOLE || ACUTE LIVER INJURY,Methimazole,Acute Liver Injury,1
+MOEXIPRIL || ACUTE LIVER INJURY,moexipril,Acute Liver Injury,1
+NEFAZODONE || ACUTE LIVER INJURY,nefazodone,Acute Liver Injury,1
+NEVIRAPINE || ACUTE LIVER INJURY,Nevirapine,Acute Liver Injury,1
+NIACIN || ACUTE LIVER INJURY,Niacin,Acute Liver Injury,1
+NORFLOXACIN || ACUTE LIVER INJURY,Norfloxacin,Acute Liver Injury,1
+OFLOXACIN || ACUTE LIVER INJURY,Ofloxacin,Acute Liver Injury,1
+OXAPROZIN || ACUTE LIVER INJURY,oxaprozin,Acute Liver Injury,1
+PIOGLITAZONE || ACUTE LIVER INJURY,pioglitazone,Acute Liver Injury,1
+PROPYLTHIOURACIL || ACUTE LIVER INJURY,Propylthiouracil,Acute Liver Injury,1
+QUINAPRIL || ACUTE LIVER INJURY,quinapril,Acute Liver Injury,1
+STAVUDINE || ACUTE LIVER INJURY,Stavudine,Acute Liver Injury,1
+SULFISOXAZOLE || ACUTE LIVER INJURY,Sulfisoxazole,Acute Liver Injury,1
+SULINDAC || ACUTE LIVER INJURY,Sulindac,Acute Liver Injury,1
+TENOFOVIR || ACUTE LIVER INJURY,Tenofovir,Acute Liver Injury,1
+THIABENDAZOLE || ACUTE LIVER INJURY,Thiabendazole,Acute Liver Injury,1
+THIOGUANINE || ACUTE LIVER INJURY,Thioguanine,Acute Liver Injury,1
+TIPRANAVIR || ACUTE LIVER INJURY,tipranavir,Acute Liver Injury,1
+TOLCAPONE || ACUTE LIVER INJURY,tolcapone,Acute Liver Injury,1
+TOLMETIN || ACUTE LIVER INJURY,Tolmetin,Acute Liver Injury,1
+TRANDOLAPRIL || ACUTE LIVER INJURY,trandolapril,Acute Liver Injury,1
+TROVAFLOXACIN || ACUTE LIVER INJURY,trovafloxacin,Acute Liver Injury,1
+ZAFIRLUKAST || ACUTE LIVER INJURY,zafirlukast,Acute Liver Injury,1
+ZALCITABINE || ACUTE LIVER INJURY,Zalcitabine,Acute Liver Injury,1
+ZIDOVUDINE || ACUTE LIVER INJURY,Zidovudine,Acute Liver Injury,1
+CAPREOMYCIN || ACUTE KIDNEY INJURY,Capreomycin,Acute Kidney Injury,1
+CAPTOPRIL || ACUTE KIDNEY INJURY,Captopril,Acute Kidney Injury,1
+CHLOROTHIAZIDE || ACUTE KIDNEY INJURY,Chlorothiazide,Acute Kidney Injury,1
+DIFLUNISAL || ACUTE KIDNEY INJURY,Diflunisal,Acute Kidney Injury,1
+ENALAPRILAT || ACUTE KIDNEY INJURY,Enalaprilat,Acute Kidney Injury,1
+FENOPROFEN || ACUTE KIDNEY INJURY,Fenoprofen,Acute Kidney Injury,1
+KETOROLAC || ACUTE KIDNEY INJURY,Ketorolac,Acute Kidney Injury,1
+MEFENAMATE || ACUTE KIDNEY INJURY,Mefenamate,Acute Kidney Injury,1
+MOEXIPRIL || ACUTE KIDNEY INJURY,moexipril,Acute Kidney Injury,1
+OXAPROZIN || ACUTE KIDNEY INJURY,oxaprozin,Acute Kidney Injury,1
+PIROXICAM || ACUTE KIDNEY INJURY,Piroxicam,Acute Kidney Injury,1
+TELMISARTAN || ACUTE KIDNEY INJURY,telmisartan,Acute Kidney Injury,1
+ALMOTRIPTAN || ACUTE MYOCARDIAL INFARCTION,almotriptan,Acute Myocardial Infarction,1
+AMOXAPINE || ACUTE MYOCARDIAL INFARCTION,Amoxapine,Acute Myocardial Infarction,1
+BROMOCRIPTINE || ACUTE MYOCARDIAL INFARCTION,Bromocriptine,Acute Myocardial Infarction,1
+DESIPRAMINE || ACUTE MYOCARDIAL INFARCTION,Desipramine,Acute Myocardial Infarction,1
+DIFLUNISAL || ACUTE MYOCARDIAL INFARCTION,Diflunisal,Acute Myocardial Infarction,1
+DIPYRIDAMOLE || ACUTE MYOCARDIAL INFARCTION,Dipyridamole,Acute Myocardial Infarction,1
+ELETRIPTAN || ACUTE MYOCARDIAL INFARCTION,eletriptan,Acute Myocardial Infarction,1
+ENALAPRILAT || ACUTE MYOCARDIAL INFARCTION,Enalaprilat,Acute Myocardial Infarction,1
+ESTRADIOL || ACUTE MYOCARDIAL INFARCTION,Estradiol,Acute Myocardial Infarction,1
+ESTROGENS CONJUGATED USP || ACUTE MYOCARDIAL INFARCTION,"Estrogens, Conjugated (USP)",Acute Myocardial Infarction,1
+ESTROPIPATE || ACUTE MYOCARDIAL INFARCTION,estropipate,Acute Myocardial Infarction,1
+ETODOLAC || ACUTE MYOCARDIAL INFARCTION,Etodolac,Acute Myocardial Infarction,1
+FACTOR VIIA || ACUTE MYOCARDIAL INFARCTION,Factor VIIa,Acute Myocardial Infarction,1
+FENOPROFEN || ACUTE MYOCARDIAL INFARCTION,Fenoprofen,Acute Myocardial Infarction,1
+FROVATRIPTAN || ACUTE MYOCARDIAL INFARCTION,frovatriptan,Acute Myocardial Infarction,1
+IMIPRAMINE || ACUTE MYOCARDIAL INFARCTION,Imipramine,Acute Myocardial Infarction,1
+KETOPROFEN || ACUTE MYOCARDIAL INFARCTION,Ketoprofen,Acute Myocardial Infarction,1
+KETOROLAC || ACUTE MYOCARDIAL INFARCTION,Ketorolac,Acute Myocardial Infarction,1
+MOEXIPRIL || ACUTE MYOCARDIAL INFARCTION,moexipril,Acute Myocardial Infarction,1
+NABUMETONE || ACUTE MYOCARDIAL INFARCTION,nabumetone,Acute Myocardial Infarction,1
+NARATRIPTAN || ACUTE MYOCARDIAL INFARCTION,naratriptan,Acute Myocardial Infarction,1
+NORTRIPTYLINE || ACUTE MYOCARDIAL INFARCTION,Nortriptyline,Acute Myocardial Infarction,1
+OXAPROZIN || ACUTE MYOCARDIAL INFARCTION,oxaprozin,Acute Myocardial Infarction,1
+PIROXICAM || ACUTE MYOCARDIAL INFARCTION,Piroxicam,Acute Myocardial Infarction,1
+SALSALATE || ACUTE MYOCARDIAL INFARCTION,Salsalate,Acute Myocardial Infarction,1
+SULINDAC || ACUTE MYOCARDIAL INFARCTION,Sulindac,Acute Myocardial Infarction,1
+TOLMETIN || ACUTE MYOCARDIAL INFARCTION,Tolmetin,Acute Myocardial Infarction,1
+ZOLMITRIPTAN || ACUTE MYOCARDIAL INFARCTION,zolmitriptan,Acute Myocardial Infarction,1
+DIFLUNISAL || GI BLEED,Diflunisal,GI Bleed,1
+ETODOLAC || GI BLEED,Etodolac,GI Bleed,1
+FENOPROFEN || GI BLEED,Fenoprofen,GI Bleed,1
+FLURBIPROFEN || GI BLEED,Flurbiprofen,GI Bleed,1
+MEFENAMATE || GI BLEED,Mefenamate,GI Bleed,1
+NABUMETONE || GI BLEED,nabumetone,GI Bleed,1
+OXAPROZIN || GI BLEED,oxaprozin,GI Bleed,1
+PIROXICAM || GI BLEED,Piroxicam,GI Bleed,1
+SULINDAC || GI BLEED,Sulindac,GI Bleed,1
+TOLMETIN || GI BLEED,Tolmetin,GI Bleed,1
+VALDECOXIB || GI BLEED,valdecoxib,GI Bleed,1

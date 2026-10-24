@@ -1,0 +1,104 @@
+reference_control_key,groundTruth,score,omop_drug,omop_outcome,dataset,method,rank
+CYCLOSPORINE || ACUTE KIDNEY INJURY,1,0.902,Cyclosporine,Acute Kidney Injury,2026_Q1,Random Forest,1
+IBUPROFEN || ACUTE KIDNEY INJURY,1,0.902,Ibuprofen,Acute Kidney Injury,2026_Q1,Random Forest,2
+AMLODIPINE || ACUTE MYOCARDIAL INFARCTION,1,0.824,Amlodipine,Acute Myocardial Infarction,2026_Q1,Random Forest,3
+IBUPROFEN || GI BLEED,1,0.824,Ibuprofen,GI Bleed,2026_Q1,Random Forest,4
+INFLIXIMAB || ACUTE LIVER INJURY,1,0.822,infliximab,Acute Liver Injury,2026_Q1,Random Forest,5
+METHOTREXATE || ACUTE LIVER INJURY,1,0.822,Methotrexate,Acute Liver Injury,2026_Q1,Random Forest,6
+INFLIXIMAB || ACUTE KIDNEY INJURY,0,0.816,infliximab,Acute Kidney Injury,2026_Q1,Random Forest,7
+CLOZAPINE || ACUTE KIDNEY INJURY,0,0.806,Clozapine,Acute Kidney Injury,2026_Q1,Random Forest,8
+IBUPROFEN || ACUTE LIVER INJURY,1,0.79,Ibuprofen,Acute Liver Injury,2026_Q1,Random Forest,9
+SERTRALINE || GI BLEED,1,0.772,Sertraline,GI Bleed,2026_Q1,Random Forest,10
+CLOZAPINE || ACUTE LIVER INJURY,1,0.762,Clozapine,Acute Liver Injury,2026_Q1,Random Forest,11
+LISINOPRIL || ACUTE KIDNEY INJURY,1,0.762,Lisinopril,Acute Kidney Injury,2026_Q1,Random Forest,12
+GEMCITABINE || ACUTE LIVER INJURY,1,0.756,gemcitabine,Acute Liver Injury,2026_Q1,Random Forest,13
+CYCLOSPORINE || ACUTE LIVER INJURY,1,0.748,Cyclosporine,Acute Liver Injury,2026_Q1,Random Forest,14
+BORTEZOMIB || ACUTE LIVER INJURY,1,0.734,bortezomib,Acute Liver Injury,2026_Q1,Random Forest,15
+LAMOTRIGINE || ACUTE LIVER INJURY,1,0.732,lamotrigine,Acute Liver Injury,2026_Q1,Random Forest,16
+FLURBIPROFEN || ACUTE MYOCARDIAL INFARCTION,1,0.716,Flurbiprofen,Acute Myocardial Infarction,2026_Q1,Random Forest,17
+RAMIPRIL || ACUTE LIVER INJURY,1,0.716,Ramipril,Acute Liver Injury,2026_Q1,Random Forest,18
+SUCRALFATE || GI BLEED,0,0.708,Sucralfate,GI Bleed,2026_Q1,Random Forest,19
+SODIUM PHOSPHATE MONOBASIC || ACUTE MYOCARDIAL INFARCTION,0,0.702,"Sodium Phosphate, Monobasic",Acute Myocardial Infarction,2026_Q1,Random Forest,20
+KETOROLAC || GI BLEED,1,0.7,Ketorolac,GI Bleed,2026_Q1,Random Forest,21
+NAPROXEN || ACUTE KIDNEY INJURY,1,0.688,Naproxen,Acute Kidney Injury,2026_Q1,Random Forest,22
+CLOPIDOGREL || GI BLEED,1,0.68,clopidogrel,GI Bleed,2026_Q1,Random Forest,23
+NAPROXEN || GI BLEED,1,0.674,Naproxen,GI Bleed,2026_Q1,Random Forest,24
+DARBEPOETIN ALFA || ACUTE MYOCARDIAL INFARCTION,1,0.662,darbepoetin alfa,Acute Myocardial Infarction,2026_Q1,Random Forest,25
+ESCITALOPRAM || GI BLEED,1,0.66,Escitalopram,GI Bleed,2026_Q1,Random Forest,26
+HYDROCHLOROTHIAZIDE || ACUTE KIDNEY INJURY,1,0.648,Hydrochlorothiazide,Acute Kidney Injury,2026_Q1,Random Forest,27
+ALLOPURINOL || ACUTE KIDNEY INJURY,1,0.64,Allopurinol,Acute Kidney Injury,2026_Q1,Random Forest,28
+CELECOXIB || ACUTE LIVER INJURY,1,0.628,celecoxib,Acute Liver Injury,2026_Q1,Random Forest,29
+ACYCLOVIR || ACUTE KIDNEY INJURY,1,0.622,Acyclovir,Acute Kidney Injury,2026_Q1,Random Forest,30
+FELBAMATE || ACUTE LIVER INJURY,1,0.622,felbamate,Acute Liver Injury,2026_Q1,Random Forest,31
+RIZATRIPTAN || ACUTE MYOCARDIAL INFARCTION,1,0.622,rizatriptan,Acute Myocardial Infarction,2026_Q1,Random Forest,32
+METHIMAZOLE || ACUTE MYOCARDIAL INFARCTION,0,0.62,Methimazole,Acute Myocardial Infarction,2026_Q1,Random Forest,33
+CANDESARTAN || ACUTE KIDNEY INJURY,1,0.61,candesartan,Acute Kidney Injury,2026_Q1,Random Forest,34
+NAPROXEN || ACUTE LIVER INJURY,1,0.602,Naproxen,Acute Liver Injury,2026_Q1,Random Forest,35
+DACARBAZINE || GI BLEED,0,0.6,Dacarbazine,GI Bleed,2026_Q1,Random Forest,36
+FERROUS GLUCONATE || ACUTE MYOCARDIAL INFARCTION,0,0.59,ferrous gluconate,Acute Myocardial Infarction,2026_Q1,Random Forest,37
+CIPROFLOXACIN || ACUTE LIVER INJURY,1,0.582,Ciprofloxacin,Acute Liver Injury,2026_Q1,Random Forest,38
+PENICILLAMINE || ACUTE LIVER INJURY,1,0.582,Penicillamine,Acute Liver Injury,2026_Q1,Random Forest,39
+LACTULOSE || GI BLEED,0,0.576,Lactulose,GI Bleed,2026_Q1,Random Forest,40
+ITRACONAZOLE || GI BLEED,0,0.558,Itraconazole,GI Bleed,2026_Q1,Random Forest,41
+INDOMETHACIN || GI BLEED,1,0.552,Indomethacin,GI Bleed,2026_Q1,Random Forest,42
+POTASSIUM CHLORIDE || GI BLEED,1,0.55,Potassium Chloride,GI Bleed,2026_Q1,Random Forest,43
+DISULFIRAM || ACUTE LIVER INJURY,1,0.548,Disulfiram,Acute Liver Injury,2026_Q1,Random Forest,44
+MELOXICAM || GI BLEED,1,0.54,meloxicam,GI Bleed,2026_Q1,Random Forest,45
+CLINDAMYCIN || GI BLEED,1,0.536,Clindamycin,GI Bleed,2026_Q1,Random Forest,46
+FLUOXETINE || GI BLEED,1,0.528,Fluoxetine,GI Bleed,2026_Q1,Random Forest,47
+KETOPROFEN || GI BLEED,1,0.528,Ketoprofen,GI Bleed,2026_Q1,Random Forest,48
+NIFEDIPINE || ACUTE MYOCARDIAL INFARCTION,1,0.518,Nifedipine,Acute Myocardial Infarction,2026_Q1,Random Forest,49
+CITALOPRAM || GI BLEED,1,0.512,Citalopram,GI Bleed,2026_Q1,Random Forest,50
+LISINOPRIL || ACUTE LIVER INJURY,1,0.506,Lisinopril,Acute Liver Injury,2026_Q1,Random Forest,51
+FLUTICASONE || ACUTE MYOCARDIAL INFARCTION,0,0.486,fluticasone,Acute Myocardial Infarction,2026_Q1,Random Forest,52
+KETOPROFEN || ACUTE KIDNEY INJURY,1,0.48,Ketoprofen,Acute Kidney Injury,2026_Q1,Random Forest,53
+NELFINAVIR || ACUTE MYOCARDIAL INFARCTION,0,0.476,Nelfinavir,Acute Myocardial Infarction,2026_Q1,Random Forest,54
+LEVOFLOXACIN || ACUTE LIVER INJURY,1,0.474,Levofloxacin,Acute Liver Injury,2026_Q1,Random Forest,55
+CARBAMAZEPINE || ACUTE LIVER INJURY,1,0.448,Carbamazepine,Acute Liver Injury,2026_Q1,Random Forest,56
+ORLISTAT || ACUTE LIVER INJURY,1,0.446,orlistat,Acute Liver Injury,2026_Q1,Random Forest,57
+PIROXICAM || ACUTE LIVER INJURY,1,0.446,Piroxicam,Acute Liver Injury,2026_Q1,Random Forest,58
+MELOXICAM || ACUTE KIDNEY INJURY,1,0.444,meloxicam,Acute Kidney Injury,2026_Q1,Random Forest,59
+SUMATRIPTAN || ACUTE MYOCARDIAL INFARCTION,1,0.444,Sumatriptan,Acute Myocardial Infarction,2026_Q1,Random Forest,60
+FLUTICASONE || ACUTE LIVER INJURY,0,0.44,fluticasone,Acute Liver Injury,2026_Q1,Random Forest,61
+LACTULOSE || ACUTE MYOCARDIAL INFARCTION,0,0.44,Lactulose,Acute Myocardial Infarction,2026_Q1,Random Forest,62
+ETODOLAC || ACUTE KIDNEY INJURY,1,0.438,Etodolac,Acute Kidney Injury,2026_Q1,Random Forest,63
+DARUNAVIR || ACUTE KIDNEY INJURY,0,0.434,darunavir,Acute Kidney Injury,2026_Q1,Random Forest,64
+DIDANOSINE || ACUTE MYOCARDIAL INFARCTION,0,0.434,Didanosine,Acute Myocardial Infarction,2026_Q1,Random Forest,65
+NEVIRAPINE || ACUTE MYOCARDIAL INFARCTION,0,0.434,Nevirapine,Acute Myocardial Infarction,2026_Q1,Random Forest,66
+STAVUDINE || ACUTE MYOCARDIAL INFARCTION,0,0.434,Stavudine,Acute Myocardial Infarction,2026_Q1,Random Forest,67
+BUSULFAN || ACUTE LIVER INJURY,1,0.424,Busulfan,Acute Liver Injury,2026_Q1,Random Forest,68
+OLMESARTAN MEDOXOMIL || ACUTE KIDNEY INJURY,1,0.424,Olmesartan medoxomil,Acute Kidney Injury,2026_Q1,Random Forest,69
+NORTRIPTYLINE || ACUTE LIVER INJURY,1,0.414,Nortriptyline,Acute Liver Injury,2026_Q1,Random Forest,70
+DICYCLOMINE || ACUTE MYOCARDIAL INFARCTION,0,0.408,Dicyclomine,Acute Myocardial Infarction,2026_Q1,Random Forest,71
+SITAGLIPTIN || ACUTE LIVER INJURY,0,0.408,sitagliptin,Acute Liver Injury,2026_Q1,Random Forest,72
+DACARBAZINE || ACUTE LIVER INJURY,1,0.406,Dacarbazine,Acute Liver Injury,2026_Q1,Random Forest,73
+FLUCONAZOLE || ACUTE LIVER INJURY,1,0.404,Fluconazole,Acute Liver Injury,2026_Q1,Random Forest,74
+METHYLDOPA || ACUTE LIVER INJURY,1,0.4,Methyldopa,Acute Liver Injury,2026_Q1,Random Forest,75
+ALLOPURINOL || ACUTE LIVER INJURY,1,0.398,Allopurinol,Acute Liver Injury,2026_Q1,Random Forest,76
+ISONIAZID || ACUTE LIVER INJURY,1,0.396,isoniazid,Acute Liver Injury,2026_Q1,Random Forest,77
+CASPOFUNGIN || ACUTE LIVER INJURY,1,0.39,Caspofungin,Acute Liver Injury,2026_Q1,Random Forest,78
+EPOETIN ALFA || ACUTE MYOCARDIAL INFARCTION,1,0.388,Epoetin Alfa,Acute Myocardial Infarction,2026_Q1,Random Forest,79
+TERBINAFINE || ACUTE LIVER INJURY,1,0.388,terbinafine,Acute Liver Injury,2026_Q1,Random Forest,80
+COSYNTROPIN || ACUTE KIDNEY INJURY,0,0.386,Cosyntropin,Acute Kidney Injury,2026_Q1,Random Forest,81
+BENZONATATE || ACUTE KIDNEY INJURY,0,0.384,benzonatate,Acute Kidney Injury,2026_Q1,Random Forest,82
+TEMAZEPAM || ACUTE MYOCARDIAL INFARCTION,0,0.38,Temazepam,Acute Myocardial Infarction,2026_Q1,Random Forest,83
+DICYCLOMINE || ACUTE KIDNEY INJURY,0,0.378,Dicyclomine,Acute Kidney Injury,2026_Q1,Random Forest,84
+LAMIVUDINE || ACUTE LIVER INJURY,1,0.372,Lamivudine,Acute Liver Injury,2026_Q1,Random Forest,85
+TEMAZEPAM || ACUTE KIDNEY INJURY,0,0.366,Temazepam,Acute Kidney Injury,2026_Q1,Random Forest,86
+LACTULOSE || ACUTE LIVER INJURY,0,0.364,Lactulose,Acute Liver Injury,2026_Q1,Random Forest,87
+RIFAMPIN || ACUTE LIVER INJURY,1,0.362,Rifampin,Acute Liver Injury,2026_Q1,Random Forest,88
+LACTULOSE || ACUTE KIDNEY INJURY,0,0.36,Lactulose,Acute Kidney Injury,2026_Q1,Random Forest,89
+EFAVIRENZ || ACUTE LIVER INJURY,1,0.358,efavirenz,Acute Liver Injury,2026_Q1,Random Forest,90
+NIFEDIPINE || ACUTE LIVER INJURY,1,0.342,Nifedipine,Acute Liver Injury,2026_Q1,Random Forest,91
+INDOMETHACIN || ACUTE MYOCARDIAL INFARCTION,1,0.336,Indomethacin,Acute Myocardial Infarction,2026_Q1,Random Forest,92
+VALPROATE || ACUTE LIVER INJURY,1,0.336,Valproate,Acute Liver Injury,2026_Q1,Random Forest,93
+GRISEOFULVIN || ACUTE KIDNEY INJURY,0,0.334,Griseofulvin,Acute Kidney Injury,2026_Q1,Random Forest,94
+NITROFURANTOIN || ACUTE LIVER INJURY,1,0.332,Nitrofurantoin,Acute Liver Injury,2026_Q1,Random Forest,95
+DILTIAZEM || ACUTE LIVER INJURY,1,0.322,Diltiazem,Acute Liver Injury,2026_Q1,Random Forest,96
+VORICONAZOLE || ACUTE LIVER INJURY,1,0.32,voriconazole,Acute Liver Injury,2026_Q1,Random Forest,97
+POSACONAZOLE || ACUTE LIVER INJURY,1,0.31,posaconazole,Acute Liver Injury,2026_Q1,Random Forest,98
+ERYTHROMYCIN || ACUTE LIVER INJURY,1,0.3,Erythromycin,Acute Liver Injury,2026_Q1,Random Forest,99
+IMATINIB || ACUTE LIVER INJURY,1,0.3,imatinib,Acute Liver Injury,2026_Q1,Random Forest,100
+INDOMETHACIN || ACUTE LIVER INJURY,1,0.25,Indomethacin,Acute Liver Injury,2026_Q1,Random Forest,101
+TAMOXIFEN || ACUTE LIVER INJURY,1,0.244,Tamoxifen,Acute Liver Injury,2026_Q1,Random Forest,102
+KETOCONAZOLE || ACUTE KIDNEY INJURY,0,0.238,Ketoconazole,Acute Kidney Injury,2026_Q1,Random Forest,103

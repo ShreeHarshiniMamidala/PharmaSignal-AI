@@ -1,0 +1,2 @@
+model,evaluation,accuracy
+Gradient Boosting,2025_5fold_stratified_oof,0.7718120805369127

@@ -1,0 +1,150 @@
+canonical_control_key,exposureName,outcomeName,standardized_outcome,groundTruth,score,method,dataset,rank
+1115008__500000301,Naproxen,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,1.0,Random Forest,2025,1
+1118084__500000301,celecoxib,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,1.0,Random Forest,2025,2
+1167322__500000301,Allopurinol,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,1.0,Random Forest,2025,3
+1714277__500000301,voriconazole,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,1.0,Random Forest,2025,4
+1742253__500000301,Levofloxacin,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,1.0,Random Forest,2025,5
+1797513__500000301,Ciprofloxacin,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,1.0,Random Forest,2025,6
+705103__500000301,lamotrigine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,1.0,Random Forest,2025,7
+740275__500000301,Carbamazepine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,1.0,Random Forest,2025,8
+1308216__500000301,Lisinopril,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.998,Random Forest,2025,9
+1314924__500000301,gemcitabine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.998,Random Forest,2025,10
+1754994__500000301,Fluconazole,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.998,Random Forest,2025,11
+974166__500000401,Hydrochlorothiazide,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.998,Random Forest,2025,12
+1115008__500001003,Naproxen,HOI Upper GI #3,GI BLEED,1,0.996,Random Forest,2025,13
+1177480__500000301,Ibuprofen,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.996,Random Forest,2025,14
+1322184__500001003,clopidogrel,HOI Upper GI #3,GI BLEED,1,0.996,Random Forest,2025,15
+1763204__500000301,Rifampin,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.996,Random Forest,2025,16
+1308216__500000401,Lisinopril,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.992,Random Forest,2025,17
+1334456__500000301,Ramipril,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.992,Random Forest,2025,18
+1703687__500000401,Acyclovir,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.992,Random Forest,2025,19
+1304107__500000301,imatinib,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.99,Random Forest,2025,20
+715939__500001003,Escitalopram,HOI Upper GI #3,GI BLEED,1,0.984,Random Forest,2025,21
+1328165__500000301,Diltiazem,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.98,Random Forest,2025,22
+1704183__500000301,Lamivudine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.98,Random Forest,2025,23
+1710612__500000301,Zidovudine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.98,Random Forest,2025,24
+1736971__500000301,abacavir,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.972,Random Forest,2025,25
+937368__500000301,infliximab,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.972,Random Forest,2025,26
+1177480__500001003,Ibuprofen,HOI Upper GI #3,GI BLEED,1,0.97,Random Forest,2025,27
+1185922__500000401,Ketoprofen,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.97,Random Forest,2025,28
+1115008__500000401,Naproxen,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.968,Random Forest,2025,29
+987245__500000301,Lactulose,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,0,0.968,Random Forest,2025,30
+1756831__500000301,darunavir,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.964,Random Forest,2025,31
+19011093__500000301,Tenofovir,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.96,Random Forest,2025,32
+1149380__500000301,fluticasone,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,0,0.958,Random Forest,2025,33
+1351557__500000401,candesartan,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.958,Random Forest,2025,34
+19010482__500000301,Cyclosporine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.956,Random Forest,2025,35
+19049105__500001003,Potassium Chloride,HOI Upper GI #3,GI BLEED,1,0.948,Random Forest,2025,36
+739138__500001003,Sertraline,HOI Upper GI #3,GI BLEED,1,0.946,Random Forest,2025,37
+920293__500000301,Nitrofurantoin,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.946,Random Forest,2025,38
+1167322__500000401,Allopurinol,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.942,Random Forest,2025,39
+1318853__500000301,Nifedipine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.942,Random Forest,2025,40
+1724869__500000301,Didanosine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.942,Random Forest,2025,41
+755695__500001003,Fluoxetine,HOI Upper GI #3,GI BLEED,1,0.942,Random Forest,2025,42
+1146810__500000301,Piroxicam,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.94,Random Forest,2025,43
+1332418__500000801,Amlodipine,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.936,Random Forest,2025,44
+797617__500001003,Citalopram,HOI Upper GI #3,GI BLEED,1,0.936,Random Forest,2025,45
+1746940__500000301,Erythromycin,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.934,Random Forest,2025,46
+1504620__500000301,Methimazole,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.932,Random Forest,2025,47
+1554072__500000301,Propylthiouracil,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.93,Random Forest,2025,48
+800878__500000301,Clozapine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.92,Random Forest,2025,49
+1703653__500000301,Itraconazole,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.912,Random Forest,2025,50
+795661__500000301,felbamate,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.91,Random Forest,2025,51
+1781406__500000301,Stavudine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.892,Random Forest,2025,52
+1738135__500000301,efavirenz,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.878,Random Forest,2025,53
+1336825__500000301,bortezomib,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.872,Random Forest,2025,54
+964339__500000801,Sulfasalazine,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.868,Random Forest,2025,55
+1769389__500000301,Nevirapine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.85,Random Forest,2025,56
+1548195__500000801,Estradiol,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.844,Random Forest,2025,57
+800878__500000401,Clozapine,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.844,Random Forest,2025,58
+1396012__500000801,ferrous gluconate,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.842,Random Forest,2025,59
+987245__500000401,Lactulose,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.828,Random Forest,2025,60
+1782521__500000301,isoniazid,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.814,Random Forest,2025,61
+735850__500000301,Disulfiram,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.808,Random Forest,2025,62
+937368__500000401,infliximab,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.802,Random Forest,2025,63
+1789276__500000301,gatifloxacin,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,0,0.8,Random Forest,2025,64
+1107830__500001003,Loratadine,HOI Upper GI #3,GI BLEED,0,0.788,Random Forest,2025,65
+19010482__500000401,Cyclosporine,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.774,Random Forest,2025,66
+929435__500000301,Acetazolamide,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.772,Random Forest,2025,67
+1305058__500000301,Methotrexate,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.768,Random Forest,2025,68
+1177480__500000401,Ibuprofen,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.756,Random Forest,2025,69
+1178663__500001003,Indomethacin,HOI Upper GI #3,GI BLEED,1,0.738,Random Forest,2025,70
+990499__500000801,"Sodium Phosphate, Monobasic",OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.738,Random Forest,2025,71
+987245__500000801,Lactulose,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.734,Random Forest,2025,72
+1704139__500000301,posaconazole,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.728,Random Forest,2025,73
+1185922__500001003,Ketoprofen,HOI Upper GI #3,GI BLEED,1,0.726,Random Forest,2025,74
+745466__500000301,Valproate,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.71,Random Forest,2025,75
+1741309__500000301,terbinafine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.706,Random Forest,2025,76
+1195492__500000301,Etodolac,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.704,Random Forest,2025,77
+1436678__500000301,Tamoxifen,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.7,Random Forest,2025,78
+1718054__500000301,Caspofungin,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.688,Random Forest,2025,79
+1704183__500001003,Lamivudine,HOI Upper GI #3,GI BLEED,0,0.678,Random Forest,2025,80
+1178663__500000301,Indomethacin,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.672,Random Forest,2025,81
+767410__500000801,lithium citrate,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.67,Random Forest,2025,82
+1305447__500000301,Methyldopa,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.578,Random Forest,2025,83
+1321636__500000301,bosentan,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.576,Random Forest,2025,84
+986117__500000801,Ketotifen,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.572,Random Forest,2025,85
+1150345__500000401,meloxicam,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.568,Random Forest,2025,86
+1195492__500000401,Etodolac,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.568,Random Forest,2025,87
+1126128__500000401,Diflunisal,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.554,Random Forest,2025,88
+1311409__500000301,Dacarbazine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.538,Random Forest,2025,89
+1136980__500001003,Ketorolac,HOI Upper GI #3,GI BLEED,1,0.53,Random Forest,2025,90
+735340__500000301,Phentermine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,0,0.518,Random Forest,2025,91
+1437379__500000301,Thioguanine,OMOP Acute Liver Failure 1,ACUTE LIVER INJURY,1,0.514,Random Forest,2025,92
+924724__500001003,Dicyclomine,HOI Upper GI #3,GI BLEED,0,0.512,Random Forest,2025,93
+997881__500000801,Clindamycin,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.502,Random Forest,2025,94
+1150345__500001003,meloxicam,HOI Upper GI #3,GI BLEED,1,0.492,Random Forest,2025,95
+1529331__500001003,Acarbose,HOI Upper GI #3,GI BLEED,0,0.492,Random Forest,2025,96
+987245__500001003,Lactulose,HOI Upper GI #3,GI BLEED,0,0.474,Random Forest,2025,97
+1304643__500000801,darbepoetin alfa,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.46,Random Forest,2025,98
+836715__500000801,Temazepam,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.446,Random Forest,2025,99
+741530__500000401,orlistat,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.428,Random Forest,2025,100
+1311409__500000401,Dacarbazine,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.426,Random Forest,2025,101
+1140643__500000801,Sumatriptan,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.418,Random Forest,2025,102
+1729720__500000801,Penicillin V,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.414,Random Forest,2025,103
+1107830__500000401,Loratadine,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.412,Random Forest,2025,104
+735340__500000401,Phentermine,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.4,Random Forest,2025,105
+721724__500000401,Nortriptyline,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.394,Random Forest,2025,106
+1107830__500000801,Loratadine,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.38,Random Forest,2025,107
+1729720__500000401,Penicillin V,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.38,Random Forest,2025,108
+1704139__500000801,posaconazole,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.376,Random Forest,2025,109
+1311409__500001003,Dacarbazine,HOI Upper GI #3,GI BLEED,0,0.372,Random Forest,2025,110
+997881__500001003,Clindamycin,HOI Upper GI #3,GI BLEED,1,0.36,Random Forest,2025,111
+735850__500000401,Disulfiram,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.358,Random Forest,2025,112
+1036228__500001003,Sucralfate,HOI Upper GI #3,GI BLEED,0,0.312,Random Forest,2025,113
+1178663__500000801,Indomethacin,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.302,Random Forest,2025,114
+1146810__500000401,Piroxicam,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.296,Random Forest,2025,115
+836715__500000401,Temazepam,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.286,Random Forest,2025,116
+1711246__500000401,entecavir,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.284,Random Forest,2025,117
+1136980__500000401,Ketorolac,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.27,Random Forest,2025,118
+1504620__500000801,Methimazole,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.27,Random Forest,2025,119
+1317640__500000401,telmisartan,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.26,Random Forest,2025,120
+704943__500000801,Methocarbamol,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.242,Random Forest,2025,121
+1580747__500001003,sitagliptin,HOI Upper GI #3,GI BLEED,0,0.228,Random Forest,2025,122
+1312742__500000401,Olmesartan medoxomil,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,1,0.224,Random Forest,2025,123
+704943__500000401,Methocarbamol,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.216,Random Forest,2025,124
+1301125__500000801,Epoetin Alfa,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.204,Random Forest,2025,125
+1189697__500000801,eletriptan,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.194,Random Forest,2025,126
+1136601__500000801,benzonatate,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.192,Random Forest,2025,127
+1154077__500000801,rizatriptan,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.186,Random Forest,2025,128
+1309204__500001003,Adenosine,HOI Upper GI #3,GI BLEED,0,0.176,Random Forest,2025,129
+752061__500000401,Prochlorperazine,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.172,Random Forest,2025,130
+1711246__500000801,entecavir,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.17,Random Forest,2025,131
+1195492__500001003,Etodolac,HOI Upper GI #3,GI BLEED,1,0.154,Random Forest,2025,132
+1146810__500001003,Piroxicam,HOI Upper GI #3,GI BLEED,1,0.146,Random Forest,2025,133
+1149380__500000801,fluticasone,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.142,Random Forest,2025,134
+1036228__500000801,Sucralfate,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.138,Random Forest,2025,135
+1156378__500000801,Flurbiprofen,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.134,Random Forest,2025,136
+1781406__500001003,Stavudine,HOI Upper GI #3,GI BLEED,0,0.124,Random Forest,2025,137
+1390051__500000401,Chlorambucil,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.122,Random Forest,2025,138
+1756831__500000401,darunavir,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.11,Random Forest,2025,139
+1703653__500001003,Itraconazole,HOI Upper GI #3,GI BLEED,0,0.1,Random Forest,2025,140
+1525215__500001003,pioglitazone,HOI Upper GI #3,GI BLEED,0,0.096,Random Forest,2025,141
+1711246__500001003,entecavir,HOI Upper GI #3,GI BLEED,0,0.092,Random Forest,2025,142
+739323__500000801,Droperidol,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.08,Random Forest,2025,143
+1304643__500000401,darbepoetin alfa,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.078,Random Forest,2025,144
+1301125__500001003,Epoetin Alfa,HOI Upper GI #3,GI BLEED,0,0.058,Random Forest,2025,145
+704943__500001003,Methocarbamol,HOI Upper GI #3,GI BLEED,0,0.054,Random Forest,2025,146
+1309204__500000401,Adenosine,OMOP Acute Renal Failure 1,ACUTE KIDNEY INJURY,0,0.04,Random Forest,2025,147
+1580747__500000801,sitagliptin,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,0,0.034,Random Forest,2025,148
+721724__500000801,Nortriptyline,OMOP Acute myocardial Infarction  1,ACUTE MYOCARDIAL INFARCTION,1,0.006,Random Forest,2025,149

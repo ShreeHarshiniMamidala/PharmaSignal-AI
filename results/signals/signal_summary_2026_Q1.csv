@@ -1,0 +1,2 @@
+dataset,total_drug_event_pairs,pairs_meeting_min_support,pairs_ror_lower_ci_gt_1,pairs_prr_gt_2,median_pair_report_count,median_ror,median_prr,median_ic
+2026_Q1,702328,163076,495897,578471,2.0,16.30181255526083,14.943300640350165,3.909499160787031

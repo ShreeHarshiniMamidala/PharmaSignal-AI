@@ -1,0 +1,150 @@
+reference_control_key,omop_drug,omop_outcome,groundTruth,predicted_probability,predicted_label
+ABACAVIR || ACUTE LIVER INJURY,abacavir,Acute Liver Injury,1,0.972,1
+ACARBOSE || GI BLEED,Acarbose,GI Bleed,0,0.492,0
+ACETAZOLAMIDE || ACUTE LIVER INJURY,Acetazolamide,Acute Liver Injury,1,0.772,1
+ACYCLOVIR || ACUTE KIDNEY INJURY,Acyclovir,Acute Kidney Injury,1,0.992,1
+ADENOSINE || ACUTE KIDNEY INJURY,Adenosine,Acute Kidney Injury,0,0.04,0
+ADENOSINE || GI BLEED,Adenosine,GI Bleed,0,0.176,0
+ALLOPURINOL || ACUTE KIDNEY INJURY,Allopurinol,Acute Kidney Injury,1,0.942,1
+ALLOPURINOL || ACUTE LIVER INJURY,Allopurinol,Acute Liver Injury,1,1.0,1
+AMLODIPINE || ACUTE MYOCARDIAL INFARCTION,Amlodipine,Acute Myocardial Infarction,1,0.936,1
+BENZONATATE || ACUTE MYOCARDIAL INFARCTION,benzonatate,Acute Myocardial Infarction,0,0.192,0
+BORTEZOMIB || ACUTE LIVER INJURY,bortezomib,Acute Liver Injury,1,0.872,1
+BOSENTAN || ACUTE LIVER INJURY,bosentan,Acute Liver Injury,1,0.576,1
+CANDESARTAN || ACUTE KIDNEY INJURY,candesartan,Acute Kidney Injury,1,0.958,1
+CARBAMAZEPINE || ACUTE LIVER INJURY,Carbamazepine,Acute Liver Injury,1,1.0,1
+CASPOFUNGIN || ACUTE LIVER INJURY,Caspofungin,Acute Liver Injury,1,0.688,1
+CELECOXIB || ACUTE LIVER INJURY,celecoxib,Acute Liver Injury,1,1.0,1
+CHLORAMBUCIL || ACUTE KIDNEY INJURY,Chlorambucil,Acute Kidney Injury,0,0.122,0
+CIPROFLOXACIN || ACUTE LIVER INJURY,Ciprofloxacin,Acute Liver Injury,1,1.0,1
+CITALOPRAM || GI BLEED,Citalopram,GI Bleed,1,0.936,1
+CLINDAMYCIN || ACUTE MYOCARDIAL INFARCTION,Clindamycin,Acute Myocardial Infarction,0,0.502,1
+CLINDAMYCIN || GI BLEED,Clindamycin,GI Bleed,1,0.36,0
+CLOPIDOGREL || GI BLEED,clopidogrel,GI Bleed,1,0.996,1
+CLOZAPINE || ACUTE KIDNEY INJURY,Clozapine,Acute Kidney Injury,0,0.844,1
+CLOZAPINE || ACUTE LIVER INJURY,Clozapine,Acute Liver Injury,1,0.92,1
+CYCLOSPORINE || ACUTE KIDNEY INJURY,Cyclosporine,Acute Kidney Injury,1,0.774,1
+CYCLOSPORINE || ACUTE LIVER INJURY,Cyclosporine,Acute Liver Injury,1,0.956,1
+DACARBAZINE || ACUTE KIDNEY INJURY,Dacarbazine,Acute Kidney Injury,0,0.426,0
+DACARBAZINE || ACUTE LIVER INJURY,Dacarbazine,Acute Liver Injury,1,0.538,1
+DACARBAZINE || GI BLEED,Dacarbazine,GI Bleed,0,0.372,0
+DARBEPOETIN ALFA || ACUTE KIDNEY INJURY,darbepoetin alfa,Acute Kidney Injury,0,0.078,0
+DARBEPOETIN ALFA || ACUTE MYOCARDIAL INFARCTION,darbepoetin alfa,Acute Myocardial Infarction,1,0.46,0
+DARUNAVIR || ACUTE KIDNEY INJURY,darunavir,Acute Kidney Injury,0,0.11,0
+DARUNAVIR || ACUTE LIVER INJURY,darunavir,Acute Liver Injury,1,0.964,1
+DICYCLOMINE || GI BLEED,Dicyclomine,GI Bleed,0,0.512,1
+DIDANOSINE || ACUTE LIVER INJURY,Didanosine,Acute Liver Injury,1,0.942,1
+DIFLUNISAL || ACUTE KIDNEY INJURY,Diflunisal,Acute Kidney Injury,1,0.554,1
+DILTIAZEM || ACUTE LIVER INJURY,Diltiazem,Acute Liver Injury,1,0.98,1
+DISULFIRAM || ACUTE KIDNEY INJURY,Disulfiram,Acute Kidney Injury,0,0.358,0
+DISULFIRAM || ACUTE LIVER INJURY,Disulfiram,Acute Liver Injury,1,0.808,1
+DROPERIDOL || ACUTE MYOCARDIAL INFARCTION,Droperidol,Acute Myocardial Infarction,0,0.08,0
+EFAVIRENZ || ACUTE LIVER INJURY,efavirenz,Acute Liver Injury,1,0.878,1
+ELETRIPTAN || ACUTE MYOCARDIAL INFARCTION,eletriptan,Acute Myocardial Infarction,1,0.194,0
+ENTECAVIR || ACUTE KIDNEY INJURY,entecavir,Acute Kidney Injury,0,0.284,0
+ENTECAVIR || ACUTE MYOCARDIAL INFARCTION,entecavir,Acute Myocardial Infarction,0,0.17,0
+ENTECAVIR || GI BLEED,entecavir,GI Bleed,0,0.092,0
+EPOETIN ALFA || ACUTE MYOCARDIAL INFARCTION,Epoetin Alfa,Acute Myocardial Infarction,1,0.204,0
+EPOETIN ALFA || GI BLEED,Epoetin Alfa,GI Bleed,0,0.058,0
+ERYTHROMYCIN || ACUTE LIVER INJURY,Erythromycin,Acute Liver Injury,1,0.934,1
+ESCITALOPRAM || GI BLEED,Escitalopram,GI Bleed,1,0.984,1
+ESTRADIOL || ACUTE MYOCARDIAL INFARCTION,Estradiol,Acute Myocardial Infarction,1,0.844,1
+ETODOLAC || ACUTE KIDNEY INJURY,Etodolac,Acute Kidney Injury,1,0.568,1
+ETODOLAC || ACUTE LIVER INJURY,Etodolac,Acute Liver Injury,1,0.704,1
+ETODOLAC || GI BLEED,Etodolac,GI Bleed,1,0.154,0
+FELBAMATE || ACUTE LIVER INJURY,felbamate,Acute Liver Injury,1,0.91,1
+FERROUS GLUCONATE || ACUTE MYOCARDIAL INFARCTION,ferrous gluconate,Acute Myocardial Infarction,0,0.842,1
+FLUCONAZOLE || ACUTE LIVER INJURY,Fluconazole,Acute Liver Injury,1,0.998,1
+FLUOXETINE || GI BLEED,Fluoxetine,GI Bleed,1,0.942,1
+FLURBIPROFEN || ACUTE MYOCARDIAL INFARCTION,Flurbiprofen,Acute Myocardial Infarction,1,0.134,0
+FLUTICASONE || ACUTE LIVER INJURY,fluticasone,Acute Liver Injury,0,0.958,1
+FLUTICASONE || ACUTE MYOCARDIAL INFARCTION,fluticasone,Acute Myocardial Infarction,0,0.142,0
+GATIFLOXACIN || ACUTE LIVER INJURY,gatifloxacin,Acute Liver Injury,0,0.8,1
+GEMCITABINE || ACUTE LIVER INJURY,gemcitabine,Acute Liver Injury,1,0.998,1
+HYDROCHLOROTHIAZIDE || ACUTE KIDNEY INJURY,Hydrochlorothiazide,Acute Kidney Injury,1,0.998,1
+IBUPROFEN || ACUTE KIDNEY INJURY,Ibuprofen,Acute Kidney Injury,1,0.756,1
+IBUPROFEN || ACUTE LIVER INJURY,Ibuprofen,Acute Liver Injury,1,0.996,1
+IBUPROFEN || GI BLEED,Ibuprofen,GI Bleed,1,0.97,1
+IMATINIB || ACUTE LIVER INJURY,imatinib,Acute Liver Injury,1,0.99,1
+INDOMETHACIN || ACUTE LIVER INJURY,Indomethacin,Acute Liver Injury,1,0.672,1
+INDOMETHACIN || ACUTE MYOCARDIAL INFARCTION,Indomethacin,Acute Myocardial Infarction,1,0.302,0
+INDOMETHACIN || GI BLEED,Indomethacin,GI Bleed,1,0.738,1
+INFLIXIMAB || ACUTE KIDNEY INJURY,infliximab,Acute Kidney Injury,0,0.802,1
+INFLIXIMAB || ACUTE LIVER INJURY,infliximab,Acute Liver Injury,1,0.972,1
+ISONIAZID || ACUTE LIVER INJURY,isoniazid,Acute Liver Injury,1,0.814,1
+ITRACONAZOLE || ACUTE LIVER INJURY,Itraconazole,Acute Liver Injury,1,0.912,1
+ITRACONAZOLE || GI BLEED,Itraconazole,GI Bleed,0,0.1,0
+KETOPROFEN || ACUTE KIDNEY INJURY,Ketoprofen,Acute Kidney Injury,1,0.97,1
+KETOPROFEN || GI BLEED,Ketoprofen,GI Bleed,1,0.726,1
+KETOROLAC || ACUTE KIDNEY INJURY,Ketorolac,Acute Kidney Injury,1,0.27,0
+KETOROLAC || GI BLEED,Ketorolac,GI Bleed,1,0.53,1
+KETOTIFEN || ACUTE MYOCARDIAL INFARCTION,Ketotifen,Acute Myocardial Infarction,0,0.572,1
+LACTULOSE || ACUTE KIDNEY INJURY,Lactulose,Acute Kidney Injury,0,0.828,1
+LACTULOSE || ACUTE LIVER INJURY,Lactulose,Acute Liver Injury,0,0.968,1
+LACTULOSE || ACUTE MYOCARDIAL INFARCTION,Lactulose,Acute Myocardial Infarction,0,0.734,1
+LACTULOSE || GI BLEED,Lactulose,GI Bleed,0,0.474,0
+LAMIVUDINE || ACUTE LIVER INJURY,Lamivudine,Acute Liver Injury,1,0.98,1
+LAMIVUDINE || GI BLEED,Lamivudine,GI Bleed,0,0.678,1
+LAMOTRIGINE || ACUTE LIVER INJURY,lamotrigine,Acute Liver Injury,1,1.0,1
+LEVOFLOXACIN || ACUTE LIVER INJURY,Levofloxacin,Acute Liver Injury,1,1.0,1
+LISINOPRIL || ACUTE KIDNEY INJURY,Lisinopril,Acute Kidney Injury,1,0.992,1
+LISINOPRIL || ACUTE LIVER INJURY,Lisinopril,Acute Liver Injury,1,0.998,1
+LITHIUM CITRATE || ACUTE MYOCARDIAL INFARCTION,lithium citrate,Acute Myocardial Infarction,0,0.67,1
+LORATADINE || ACUTE KIDNEY INJURY,Loratadine,Acute Kidney Injury,0,0.412,0
+LORATADINE || ACUTE MYOCARDIAL INFARCTION,Loratadine,Acute Myocardial Infarction,0,0.38,0
+LORATADINE || GI BLEED,Loratadine,GI Bleed,0,0.788,1
+MELOXICAM || ACUTE KIDNEY INJURY,meloxicam,Acute Kidney Injury,1,0.568,1
+MELOXICAM || GI BLEED,meloxicam,GI Bleed,1,0.492,0
+METHIMAZOLE || ACUTE LIVER INJURY,Methimazole,Acute Liver Injury,1,0.932,1
+METHIMAZOLE || ACUTE MYOCARDIAL INFARCTION,Methimazole,Acute Myocardial Infarction,0,0.27,0
+METHOCARBAMOL || ACUTE KIDNEY INJURY,Methocarbamol,Acute Kidney Injury,0,0.216,0
+METHOCARBAMOL || ACUTE MYOCARDIAL INFARCTION,Methocarbamol,Acute Myocardial Infarction,0,0.242,0
+METHOCARBAMOL || GI BLEED,Methocarbamol,GI Bleed,0,0.054,0
+METHOTREXATE || ACUTE LIVER INJURY,Methotrexate,Acute Liver Injury,1,0.768,1
+METHYLDOPA || ACUTE LIVER INJURY,Methyldopa,Acute Liver Injury,1,0.578,1
+NAPROXEN || ACUTE KIDNEY INJURY,Naproxen,Acute Kidney Injury,1,0.968,1
+NAPROXEN || ACUTE LIVER INJURY,Naproxen,Acute Liver Injury,1,1.0,1
+NAPROXEN || GI BLEED,Naproxen,GI Bleed,1,0.996,1
+NEVIRAPINE || ACUTE LIVER INJURY,Nevirapine,Acute Liver Injury,1,0.85,1
+NIFEDIPINE || ACUTE LIVER INJURY,Nifedipine,Acute Liver Injury,1,0.942,1
+NITROFURANTOIN || ACUTE LIVER INJURY,Nitrofurantoin,Acute Liver Injury,1,0.946,1
+NORTRIPTYLINE || ACUTE KIDNEY INJURY,Nortriptyline,Acute Kidney Injury,0,0.394,0
+NORTRIPTYLINE || ACUTE MYOCARDIAL INFARCTION,Nortriptyline,Acute Myocardial Infarction,1,0.006,0
+OLMESARTAN MEDOXOMIL || ACUTE KIDNEY INJURY,Olmesartan medoxomil,Acute Kidney Injury,1,0.224,0
+ORLISTAT || ACUTE KIDNEY INJURY,orlistat,Acute Kidney Injury,0,0.428,0
+PENICILLIN V || ACUTE KIDNEY INJURY,Penicillin V,Acute Kidney Injury,0,0.38,0
+PENICILLIN V || ACUTE MYOCARDIAL INFARCTION,Penicillin V,Acute Myocardial Infarction,0,0.414,0
+PHENTERMINE || ACUTE KIDNEY INJURY,Phentermine,Acute Kidney Injury,0,0.4,0
+PHENTERMINE || ACUTE LIVER INJURY,Phentermine,Acute Liver Injury,0,0.518,1
+PIOGLITAZONE || GI BLEED,pioglitazone,GI Bleed,0,0.096,0
+PIROXICAM || ACUTE KIDNEY INJURY,Piroxicam,Acute Kidney Injury,1,0.296,0
+PIROXICAM || ACUTE LIVER INJURY,Piroxicam,Acute Liver Injury,1,0.94,1
+PIROXICAM || GI BLEED,Piroxicam,GI Bleed,1,0.146,0
+POSACONAZOLE || ACUTE LIVER INJURY,posaconazole,Acute Liver Injury,1,0.728,1
+POSACONAZOLE || ACUTE MYOCARDIAL INFARCTION,posaconazole,Acute Myocardial Infarction,0,0.376,0
+POTASSIUM CHLORIDE || GI BLEED,Potassium Chloride,GI Bleed,1,0.948,1
+PROCHLORPERAZINE || ACUTE KIDNEY INJURY,Prochlorperazine,Acute Kidney Injury,0,0.172,0
+PROPYLTHIOURACIL || ACUTE LIVER INJURY,Propylthiouracil,Acute Liver Injury,1,0.93,1
+RAMIPRIL || ACUTE LIVER INJURY,Ramipril,Acute Liver Injury,1,0.992,1
+RIFAMPIN || ACUTE LIVER INJURY,Rifampin,Acute Liver Injury,1,0.996,1
+RIZATRIPTAN || ACUTE MYOCARDIAL INFARCTION,rizatriptan,Acute Myocardial Infarction,1,0.186,0
+SERTRALINE || GI BLEED,Sertraline,GI Bleed,1,0.946,1
+SITAGLIPTIN || ACUTE MYOCARDIAL INFARCTION,sitagliptin,Acute Myocardial Infarction,0,0.034,0
+SITAGLIPTIN || GI BLEED,sitagliptin,GI Bleed,0,0.228,0
+SODIUM PHOSPHATE MONOBASIC || ACUTE MYOCARDIAL INFARCTION,"Sodium Phosphate, Monobasic",Acute Myocardial Infarction,0,0.738,1
+STAVUDINE || ACUTE LIVER INJURY,Stavudine,Acute Liver Injury,1,0.892,1
+STAVUDINE || GI BLEED,Stavudine,GI Bleed,0,0.124,0
+SUCRALFATE || ACUTE MYOCARDIAL INFARCTION,Sucralfate,Acute Myocardial Infarction,0,0.138,0
+SUCRALFATE || GI BLEED,Sucralfate,GI Bleed,0,0.312,0
+SULFASALAZINE || ACUTE MYOCARDIAL INFARCTION,Sulfasalazine,Acute Myocardial Infarction,0,0.868,1
+SUMATRIPTAN || ACUTE MYOCARDIAL INFARCTION,Sumatriptan,Acute Myocardial Infarction,1,0.418,0
+TAMOXIFEN || ACUTE LIVER INJURY,Tamoxifen,Acute Liver Injury,1,0.7,1
+TELMISARTAN || ACUTE KIDNEY INJURY,telmisartan,Acute Kidney Injury,1,0.26,0
+TEMAZEPAM || ACUTE KIDNEY INJURY,Temazepam,Acute Kidney Injury,0,0.286,0
+TEMAZEPAM || ACUTE MYOCARDIAL INFARCTION,Temazepam,Acute Myocardial Infarction,0,0.446,0
+TENOFOVIR || ACUTE LIVER INJURY,Tenofovir,Acute Liver Injury,1,0.96,1
+TERBINAFINE || ACUTE LIVER INJURY,terbinafine,Acute Liver Injury,1,0.706,1
+THIOGUANINE || ACUTE LIVER INJURY,Thioguanine,Acute Liver Injury,1,0.514,1
+VALPROATE || ACUTE LIVER INJURY,Valproate,Acute Liver Injury,1,0.71,1
+VORICONAZOLE || ACUTE LIVER INJURY,voriconazole,Acute Liver Injury,1,1.0,1
+ZIDOVUDINE || ACUTE LIVER INJURY,Zidovudine,Acute Liver Injury,1,0.98,1

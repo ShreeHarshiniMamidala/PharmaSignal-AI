@@ -1,0 +1,4 @@
+Method,Accuracy,Precision,Recall,F1,AUROC,PR_AUC
+Logistic Regression,0.6913,0.831,0.6344,0.7195,0.8024,0.8882
+Random Forest,0.7785,0.8191,0.828,0.8235,0.8337,0.9028
+Gradient Boosting,0.7718,0.8315,0.7957,0.8132,0.811,0.8888

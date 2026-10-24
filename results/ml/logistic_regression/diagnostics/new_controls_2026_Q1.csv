@@ -1,0 +1,17 @@
+reference_control_key,omop_drug,omop_outcome,groundTruth,predicted_probability,predicted_label,seen_in_2025
+BENZONATATE || ACUTE KIDNEY INJURY,benzonatate,Acute Kidney Injury,0,0.1366885486746396,0,False
+BUSULFAN || ACUTE LIVER INJURY,Busulfan,Acute Liver Injury,1,0.0969969798490483,0,False
+COSYNTROPIN || ACUTE KIDNEY INJURY,Cosyntropin,Acute Kidney Injury,0,0.109544792823693,0,False
+DICYCLOMINE || ACUTE KIDNEY INJURY,Dicyclomine,Acute Kidney Injury,0,0.1392050153352524,0,False
+DICYCLOMINE || ACUTE MYOCARDIAL INFARCTION,Dicyclomine,Acute Myocardial Infarction,0,0.0833906154385565,0,False
+DIDANOSINE || ACUTE MYOCARDIAL INFARCTION,Didanosine,Acute Myocardial Infarction,0,0.110802163495497,0,False
+GRISEOFULVIN || ACUTE KIDNEY INJURY,Griseofulvin,Acute Kidney Injury,0,0.1084838205934146,0,False
+KETOCONAZOLE || ACUTE KIDNEY INJURY,Ketoconazole,Acute Kidney Injury,0,0.1265926512360544,0,False
+NELFINAVIR || ACUTE MYOCARDIAL INFARCTION,Nelfinavir,Acute Myocardial Infarction,0,0.1115897062513565,0,False
+NEVIRAPINE || ACUTE MYOCARDIAL INFARCTION,Nevirapine,Acute Myocardial Infarction,0,0.110802163495497,0,False
+NIFEDIPINE || ACUTE MYOCARDIAL INFARCTION,Nifedipine,Acute Myocardial Infarction,1,0.0397538579483434,0,False
+NORTRIPTYLINE || ACUTE LIVER INJURY,Nortriptyline,Acute Liver Injury,1,0.0680850620606954,0,False
+ORLISTAT || ACUTE LIVER INJURY,orlistat,Acute Liver Injury,1,0.0597548793763985,0,False
+PENICILLAMINE || ACUTE LIVER INJURY,Penicillamine,Acute Liver Injury,1,0.0603722367645043,0,False
+SITAGLIPTIN || ACUTE LIVER INJURY,sitagliptin,Acute Liver Injury,0,0.0687957249087105,0,False
+STAVUDINE || ACUTE MYOCARDIAL INFARCTION,Stavudine,Acute Myocardial Infarction,0,0.110802163495497,0,False

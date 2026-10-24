@@ -1,0 +1,150 @@
+reference_control_key,groundTruth,score,exposureName,outcomeName,standardized_outcome,dataset,method,rank
+990499__500000801,0,2064.136250148615,"Sodium Phosphate, Monobasic",OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,1
+1107830__500001003,0,210.31601251135103,Loratadine,HOI Upper GI #3,GI Bleed,2025,ROR,2
+735850__500000301,1,168.22329709956486,Disulfiram,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,3
+767410__500000801,0,140.58433123604627,lithium citrate,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,4
+1156378__500000801,1,99.16686500380808,Flurbiprofen,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,5
+1178663__500001003,1,87.34036027826701,Indomethacin,HOI Upper GI #3,GI Bleed,2025,ROR,6
+1396012__500000801,0,76.85161624380501,ferrous gluconate,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,7
+1195492__500001003,1,65.3801995106343,Etodolac,HOI Upper GI #3,GI Bleed,2025,ROR,8
+1304643__500000801,1,56.21732793522267,darbepoetin alfa,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,9
+1322184__500001003,1,50.0273617756355,clopidogrel,HOI Upper GI #3,GI Bleed,2025,ROR,10
+1729720__500000801,0,49.70141802728696,Penicillin V,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,11
+987245__500000801,0,48.73699065127265,Lactulose,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,12
+795661__500000301,1,37.658954826510765,felbamate,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,13
+1782521__500000301,1,37.6201301483798,isoniazid,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,14
+741530__500000401,0,36.70028787998838,orlistat,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,15
+1789276__500000301,0,34.61253433208489,gatifloxacin,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,16
+1746940__500000301,1,34.53039821328188,Erythromycin,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,17
+1554072__500000301,1,28.720950391103894,Propylthiouracil,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,18
+735850__500000401,0,27.20095918567094,Disulfiram,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,19
+1146810__500000301,1,26.68268268268268,Piroxicam,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,20
+1118084__500000301,1,25.842587743007027,celecoxib,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,21
+1195492__500000301,1,25.645003145003145,Etodolac,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,22
+1504620__500000301,1,25.566873764056552,Methimazole,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,23
+1304643__500000401,0,24.714829573756493,darbepoetin alfa,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,24
+987245__500001003,0,23.75399293844305,Lactulose,HOI Upper GI #3,GI Bleed,2025,ROR,25
+1308216__500000401,1,22.63248630656038,Lisinopril,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,26
+1504620__500000801,0,22.187639474006573,Methimazole,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,27
+715939__500001003,1,21.61629535823876,Escitalopram,HOI Upper GI #3,GI Bleed,2025,ROR,28
+924724__500001003,0,21.545855050881112,Dicyclomine,HOI Upper GI #3,GI Bleed,2025,ROR,29
+1724869__500000301,1,20.77729702722958,Didanosine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,30
+1115008__500000301,1,20.267102821326954,Naproxen,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,31
+1529331__500001003,0,18.812784398699893,Acarbose,HOI Upper GI #3,GI Bleed,2025,ROR,32
+920293__500000301,1,17.47153453998643,Nitrofurantoin,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,33
+1334456__500000301,1,16.843772926779,Ramipril,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,34
+1177480__500001003,1,16.154294361760016,Ibuprofen,HOI Upper GI #3,GI Bleed,2025,ROR,35
+1115008__500001003,1,16.143539574375612,Naproxen,HOI Upper GI #3,GI Bleed,2025,ROR,36
+1781406__500000301,1,15.982363227579317,Stavudine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,37
+974166__500000401,1,15.959790351124845,Hydrochlorothiazide,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,38
+1301125__500000801,1,14.349905464463935,Epoetin Alfa,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,39
+1036228__500001003,0,13.973357873457442,Sucralfate,HOI Upper GI #3,GI Bleed,2025,ROR,40
+1729720__500000401,0,13.883641712904955,Penicillin V,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,41
+1332418__500000801,1,13.821133563324535,Amlodipine,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,42
+1136980__500001003,1,13.700349188186786,Ketorolac,HOI Upper GI #3,GI Bleed,2025,ROR,43
+740275__500000301,1,13.654175730336192,Carbamazepine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,44
+1146810__500001003,1,13.169060008909868,Piroxicam,HOI Upper GI #3,GI Bleed,2025,ROR,45
+937368__500000301,1,13.10462300751107,infliximab,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,46
+987245__500000401,0,13.002111693147157,Lactulose,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,47
+1126128__500000401,1,12.332811661599,Diflunisal,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,48
+1149380__500000801,0,12.295763297259958,fluticasone,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,49
+1769389__500000301,1,12.152941073322989,Nevirapine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,50
+929435__500000301,1,11.888015003177648,Acetazolamide,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,51
+1703687__500000401,1,11.758412738745609,Acyclovir,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,52
+1580747__500000801,0,11.386502011045376,sitagliptin,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,53
+1317640__500000401,1,11.135151973169211,telmisartan,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,54
+1185922__500000401,1,11.02360845441353,Ketoprofen,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,55
+1167322__500000301,1,10.750628073646528,Allopurinol,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,56
+1309204__500001003,0,10.360507232847658,Adenosine,HOI Upper GI #3,GI Bleed,2025,ROR,57
+19049105__500001003,1,10.3067942028073,Potassium Chloride,HOI Upper GI #3,GI Bleed,2025,ROR,58
+1580747__500001003,0,10.29210760337928,sitagliptin,HOI Upper GI #3,GI Bleed,2025,ROR,59
+1763204__500000301,1,10.06307908111716,Rifampin,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,60
+1107830__500000801,0,9.53586778993754,Loratadine,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,61
+739138__500001003,1,9.313127919892308,Sertraline,HOI Upper GI #3,GI Bleed,2025,ROR,62
+1115008__500000401,1,9.172864226125837,Naproxen,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,63
+1140643__500000801,1,9.12724124374976,Sumatriptan,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,64
+1311409__500001003,0,9.112158026753413,Dacarbazine,HOI Upper GI #3,GI Bleed,2025,ROR,65
+1711246__500000401,0,8.955305140013277,entecavir,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,66
+1177480__500000401,1,8.661641559151105,Ibuprofen,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,67
+1756831__500000401,0,8.56196292733611,darunavir,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,68
+1167322__500000401,1,8.4975573676633,Allopurinol,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,69
+1742253__500000301,1,8.495654752907734,Levofloxacin,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,70
+1312742__500000401,1,8.414011015832207,Olmesartan medoxomil,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,71
+836715__500000801,0,8.363055377781125,Temazepam,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,72
+1741309__500000301,1,8.356712133820567,terbinafine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,73
+1738135__500000301,1,8.056282441017652,efavirenz,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,74
+755695__500001003,1,8.002031860134895,Fluoxetine,HOI Upper GI #3,GI Bleed,2025,ROR,75
+1150345__500001003,1,7.885222072066957,meloxicam,HOI Upper GI #3,GI Bleed,2025,ROR,76
+1305058__500000301,1,7.874401683749268,Methotrexate,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,77
+1781406__500001003,0,7.265409793139566,Stavudine,HOI Upper GI #3,GI Bleed,2025,ROR,78
+1136980__500000401,1,6.590308864167066,Ketorolac,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,79
+1177480__500000301,1,6.588793002238407,Ibuprofen,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,80
+1301125__500001003,0,6.321804511278195,Epoetin Alfa,HOI Upper GI #3,GI Bleed,2025,ROR,81
+1178663__500000801,1,6.1346933351053226,Indomethacin,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,82
+752061__500000401,0,6.087954511519028,Prochlorperazine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,83
+1154077__500000801,1,6.037477557372702,rizatriptan,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,84
+19011093__500000301,1,5.935835266407337,Tenofovir,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,85
+19010482__500000401,1,5.773774061928959,Cyclosporine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,86
+735340__500000401,0,5.738262336900321,Phentermine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,87
+1704183__500000301,1,5.530311012767153,Lamivudine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,88
+705103__500000301,1,5.378948222284025,lamotrigine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,89
+1710612__500000301,1,5.326954783912066,Zidovudine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,90
+1189697__500000801,1,5.304873798974461,eletriptan,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,91
+1328165__500000301,1,5.021088931346356,Diltiazem,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,92
+1714277__500000301,1,4.786343717215966,voriconazole,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,93
+1311409__500000401,0,4.7171584773676525,Dacarbazine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,94
+1195492__500000401,1,4.404518103073817,Etodolac,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,95
+986117__500000801,0,4.196350296417244,Ketotifen,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,96
+1390051__500000401,0,4.157633012401761,Chlorambucil,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,97
+1304107__500000301,1,4.028850129509663,imatinib,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,98
+1309204__500000401,0,3.9787985457902937,Adenosine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,99
+1756831__500000301,1,3.783263184902529,darunavir,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,100
+1525215__500001003,0,3.744310391363023,pioglitazone,HOI Upper GI #3,GI Bleed,2025,ROR,101
+1150345__500000401,1,3.725526511504557,meloxicam,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,102
+704943__500000401,0,3.6835334648693343,Methocarbamol,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,103
+1754994__500000301,1,3.648060644279599,Fluconazole,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,104
+1308216__500000301,1,3.5086024496848207,Lisinopril,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,105
+1437379__500000301,1,3.461028714107366,Thioguanine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,106
+1736971__500000301,1,3.4273647144934274,abacavir,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,107
+1351557__500000401,1,3.3560130119187166,candesartan,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,108
+1149380__500000301,0,3.349561545783766,fluticasone,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,109
+704943__500000801,0,3.0626588029784383,Methocarbamol,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,110
+1436678__500000301,1,2.9499758791136967,Tamoxifen,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,111
+1704183__500001003,0,2.8771140444643315,Lamivudine,HOI Upper GI #3,GI Bleed,2025,ROR,112
+1311409__500000301,1,2.844070777752808,Dacarbazine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,113
+987245__500000301,0,2.6907073580824745,Lactulose,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,114
+797617__500001003,1,2.637065431507214,Citalopram,HOI Upper GI #3,GI Bleed,2025,ROR,115
+1703653__500000301,1,2.592865935562565,Itraconazole,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,116
+735340__500000301,0,2.582793895690089,Phentermine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,117
+1797513__500000301,1,2.422750131568693,Ciprofloxacin,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,118
+721724__500000801,1,2.411876895498744,Nortriptyline,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,119
+1711246__500001003,0,2.36278487480838,entecavir,HOI Upper GI #3,GI Bleed,2025,ROR,120
+739323__500000801,0,2.3428726067248493,Droperidol,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,121
+1036228__500000801,0,2.146125803138029,Sucralfate,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,122
+964339__500000801,0,2.043362005406734,Sulfasalazine,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,123
+1314924__500000301,1,2.039543819305024,gemcitabine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,124
+1305447__500000301,1,1.966385767790262,Methyldopa,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,125
+1703653__500001003,0,1.8160892903901544,Itraconazole,HOI Upper GI #3,GI Bleed,2025,ROR,126
+1704139__500000801,0,1.7914447266008071,posaconazole,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,127
+1146810__500000401,1,1.7873579532566246,Piroxicam,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,128
+1704139__500000301,1,1.772121420879733,posaconazole,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,129
+745466__500000301,1,1.6842415492050529,Valproate,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,130
+1185922__500001003,1,1.679259796806967,Ketoprofen,HOI Upper GI #3,GI Bleed,2025,ROR,131
+704943__500001003,0,1.414782741738066,Methocarbamol,HOI Upper GI #3,GI Bleed,2025,ROR,132
+1711246__500000801,0,1.364695427020913,entecavir,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,133
+1178663__500000301,1,1.3466377979996658,Indomethacin,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,134
+19010482__500000301,1,1.2150411020223122,Cyclosporine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,135
+997881__500000801,0,1.214714896045002,Clindamycin,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,136
+997881__500001003,1,1.1239558144869923,Clindamycin,HOI Upper GI #3,GI Bleed,2025,ROR,137
+1718054__500000301,1,1.0582452362681205,Caspofungin,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,138
+836715__500000401,0,0.9767677903849068,Temazepam,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,139
+1136601__500000801,0,0.9370272647317502,benzonatate,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,140
+800878__500000401,0,0.9278042750714088,Clozapine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,141
+1107830__500000401,0,0.8474917224828463,Loratadine,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,142
+1336825__500000301,1,0.7150275671950379,bortezomib,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,143
+800878__500000301,1,0.6848241508007519,Clozapine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,144
+1321636__500000301,1,0.6515918190773774,bosentan,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,145
+937368__500000401,0,0.6259151697496953,infliximab,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,146
+1548195__500000801,1,0.5697704074800611,Estradiol,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,2025,ROR,147
+1318853__500000301,1,0.5218134195001346,Nifedipine,OMOP Acute Liver Failure 1,Acute Liver Injury,2025,ROR,148
+721724__500000401,0,0.2691878869580634,Nortriptyline,OMOP Acute Renal Failure 1,Acute Kidney Injury,2025,ROR,149

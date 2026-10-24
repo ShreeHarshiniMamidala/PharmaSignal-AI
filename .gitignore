@@ -1,0 +1,10 @@
+data/raw/
+data/processed/
+*.parquet
+*.zip
+.venv/
+venv/
+.env
+.env.*
+src/Preliminary/results/tables/drug_event_pairs.csv
+src/Preliminary/results/tables/all_signals.csv

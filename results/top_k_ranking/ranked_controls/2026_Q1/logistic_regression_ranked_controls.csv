@@ -1,0 +1,104 @@
+reference_control_key,groundTruth,score,omop_drug,omop_outcome,dataset,method,rank
+METHOTREXATE || ACUTE LIVER INJURY,1,0.9873828911027416,Methotrexate,Acute Liver Injury,2026_Q1,Logistic Regression,1
+INFLIXIMAB || ACUTE LIVER INJURY,1,0.9787931740761668,infliximab,Acute Liver Injury,2026_Q1,Logistic Regression,2
+IBUPROFEN || ACUTE KIDNEY INJURY,1,0.9753994108392272,Ibuprofen,Acute Kidney Injury,2026_Q1,Logistic Regression,3
+IBUPROFEN || GI BLEED,1,0.9629908675999576,Ibuprofen,GI Bleed,2026_Q1,Logistic Regression,4
+AMLODIPINE || ACUTE MYOCARDIAL INFARCTION,1,0.9392377753366176,Amlodipine,Acute Myocardial Infarction,2026_Q1,Logistic Regression,5
+CYCLOSPORINE || ACUTE KIDNEY INJURY,1,0.9289061840097113,Cyclosporine,Acute Kidney Injury,2026_Q1,Logistic Regression,6
+HYDROCHLOROTHIAZIDE || ACUTE KIDNEY INJURY,1,0.823335507160472,Hydrochlorothiazide,Acute Kidney Injury,2026_Q1,Logistic Regression,7
+RAMIPRIL || ACUTE LIVER INJURY,1,0.7833941675611228,Ramipril,Acute Liver Injury,2026_Q1,Logistic Regression,8
+CELECOXIB || ACUTE LIVER INJURY,1,0.7423477483095491,celecoxib,Acute Liver Injury,2026_Q1,Logistic Regression,9
+ACYCLOVIR || ACUTE KIDNEY INJURY,1,0.6742405322539315,Acyclovir,Acute Kidney Injury,2026_Q1,Logistic Regression,10
+IBUPROFEN || ACUTE LIVER INJURY,1,0.6597484195814378,Ibuprofen,Acute Liver Injury,2026_Q1,Logistic Regression,11
+NAPROXEN || ACUTE LIVER INJURY,1,0.6488415629951063,Naproxen,Acute Liver Injury,2026_Q1,Logistic Regression,12
+CLOPIDOGREL || GI BLEED,1,0.6485940211838923,clopidogrel,GI Bleed,2026_Q1,Logistic Regression,13
+INFLIXIMAB || ACUTE KIDNEY INJURY,0,0.6367789694003645,infliximab,Acute Kidney Injury,2026_Q1,Logistic Regression,14
+LISINOPRIL || ACUTE KIDNEY INJURY,1,0.634609691207465,Lisinopril,Acute Kidney Injury,2026_Q1,Logistic Regression,15
+ALLOPURINOL || ACUTE KIDNEY INJURY,1,0.5301148536598819,Allopurinol,Acute Kidney Injury,2026_Q1,Logistic Regression,16
+NAPROXEN || GI BLEED,1,0.483603143121255,Naproxen,GI Bleed,2026_Q1,Logistic Regression,17
+SERTRALINE || GI BLEED,1,0.4653329795004357,Sertraline,GI Bleed,2026_Q1,Logistic Regression,18
+CLOZAPINE || ACUTE KIDNEY INJURY,0,0.4474452293520343,Clozapine,Acute Kidney Injury,2026_Q1,Logistic Regression,19
+NAPROXEN || ACUTE KIDNEY INJURY,1,0.4341343693110041,Naproxen,Acute Kidney Injury,2026_Q1,Logistic Regression,20
+KETOPROFEN || ACUTE KIDNEY INJURY,1,0.4327211707516541,Ketoprofen,Acute Kidney Injury,2026_Q1,Logistic Regression,21
+CYCLOSPORINE || ACUTE LIVER INJURY,1,0.4259045419269371,Cyclosporine,Acute Liver Injury,2026_Q1,Logistic Regression,22
+GEMCITABINE || ACUTE LIVER INJURY,1,0.3530521477382132,gemcitabine,Acute Liver Injury,2026_Q1,Logistic Regression,23
+ESCITALOPRAM || GI BLEED,1,0.3521977484770515,Escitalopram,GI Bleed,2026_Q1,Logistic Regression,24
+LISINOPRIL || ACUTE LIVER INJURY,1,0.3305933129432838,Lisinopril,Acute Liver Injury,2026_Q1,Logistic Regression,25
+FLUCONAZOLE || ACUTE LIVER INJURY,1,0.3273936219126749,Fluconazole,Acute Liver Injury,2026_Q1,Logistic Regression,26
+BORTEZOMIB || ACUTE LIVER INJURY,1,0.2816169969253319,bortezomib,Acute Liver Injury,2026_Q1,Logistic Regression,27
+CANDESARTAN || ACUTE KIDNEY INJURY,1,0.2692570523293282,candesartan,Acute Kidney Injury,2026_Q1,Logistic Regression,28
+LAMOTRIGINE || ACUTE LIVER INJURY,1,0.265858723675425,lamotrigine,Acute Liver Injury,2026_Q1,Logistic Regression,29
+TEMAZEPAM || ACUTE KIDNEY INJURY,0,0.2343023735857183,Temazepam,Acute Kidney Injury,2026_Q1,Logistic Regression,30
+LACTULOSE || ACUTE KIDNEY INJURY,0,0.233911453776722,Lactulose,Acute Kidney Injury,2026_Q1,Logistic Regression,31
+RIFAMPIN || ACUTE LIVER INJURY,1,0.2292135424388336,Rifampin,Acute Liver Injury,2026_Q1,Logistic Regression,32
+MELOXICAM || ACUTE KIDNEY INJURY,1,0.2275613920788432,meloxicam,Acute Kidney Injury,2026_Q1,Logistic Regression,33
+CIPROFLOXACIN || ACUTE LIVER INJURY,1,0.2096118080181742,Ciprofloxacin,Acute Liver Injury,2026_Q1,Logistic Regression,34
+CLOZAPINE || ACUTE LIVER INJURY,1,0.2079147325720619,Clozapine,Acute Liver Injury,2026_Q1,Logistic Regression,35
+ISONIAZID || ACUTE LIVER INJURY,1,0.1940728229103083,isoniazid,Acute Liver Injury,2026_Q1,Logistic Regression,36
+OLMESARTAN MEDOXOMIL || ACUTE KIDNEY INJURY,1,0.1895398138862108,Olmesartan medoxomil,Acute Kidney Injury,2026_Q1,Logistic Regression,37
+LEVOFLOXACIN || ACUTE LIVER INJURY,1,0.1830259134084853,Levofloxacin,Acute Liver Injury,2026_Q1,Logistic Regression,38
+DILTIAZEM || ACUTE LIVER INJURY,1,0.1722345734505158,Diltiazem,Acute Liver Injury,2026_Q1,Logistic Regression,39
+NITROFURANTOIN || ACUTE LIVER INJURY,1,0.1617939784007603,Nitrofurantoin,Acute Liver Injury,2026_Q1,Logistic Regression,40
+INDOMETHACIN || ACUTE MYOCARDIAL INFARCTION,1,0.1490279798653596,Indomethacin,Acute Myocardial Infarction,2026_Q1,Logistic Regression,41
+DICYCLOMINE || ACUTE KIDNEY INJURY,0,0.1392050153352524,Dicyclomine,Acute Kidney Injury,2026_Q1,Logistic Regression,42
+FERROUS GLUCONATE || ACUTE MYOCARDIAL INFARCTION,0,0.1372471388017578,ferrous gluconate,Acute Myocardial Infarction,2026_Q1,Logistic Regression,43
+BENZONATATE || ACUTE KIDNEY INJURY,0,0.1366885486746396,benzonatate,Acute Kidney Injury,2026_Q1,Logistic Regression,44
+DARUNAVIR || ACUTE KIDNEY INJURY,0,0.1332103197190388,darunavir,Acute Kidney Injury,2026_Q1,Logistic Regression,45
+INDOMETHACIN || GI BLEED,1,0.1308354697759804,Indomethacin,GI Bleed,2026_Q1,Logistic Regression,46
+ETODOLAC || ACUTE KIDNEY INJURY,1,0.1287148079683903,Etodolac,Acute Kidney Injury,2026_Q1,Logistic Regression,47
+FLUOXETINE || GI BLEED,1,0.1278285501494551,Fluoxetine,GI Bleed,2026_Q1,Logistic Regression,48
+KETOCONAZOLE || ACUTE KIDNEY INJURY,0,0.1265926512360544,Ketoconazole,Acute Kidney Injury,2026_Q1,Logistic Regression,49
+CARBAMAZEPINE || ACUTE LIVER INJURY,1,0.1241170863017425,Carbamazepine,Acute Liver Injury,2026_Q1,Logistic Regression,50
+NIFEDIPINE || ACUTE LIVER INJURY,1,0.123153869296256,Nifedipine,Acute Liver Injury,2026_Q1,Logistic Regression,51
+IMATINIB || ACUTE LIVER INJURY,1,0.1223463434107767,imatinib,Acute Liver Injury,2026_Q1,Logistic Regression,52
+VORICONAZOLE || ACUTE LIVER INJURY,1,0.1123122188803581,voriconazole,Acute Liver Injury,2026_Q1,Logistic Regression,53
+NELFINAVIR || ACUTE MYOCARDIAL INFARCTION,0,0.1115897062513565,Nelfinavir,Acute Myocardial Infarction,2026_Q1,Logistic Regression,54
+ALLOPURINOL || ACUTE LIVER INJURY,1,0.1108603430626188,Allopurinol,Acute Liver Injury,2026_Q1,Logistic Regression,55
+DIDANOSINE || ACUTE MYOCARDIAL INFARCTION,0,0.110802163495497,Didanosine,Acute Myocardial Infarction,2026_Q1,Logistic Regression,56
+NEVIRAPINE || ACUTE MYOCARDIAL INFARCTION,0,0.110802163495497,Nevirapine,Acute Myocardial Infarction,2026_Q1,Logistic Regression,57
+STAVUDINE || ACUTE MYOCARDIAL INFARCTION,0,0.110802163495497,Stavudine,Acute Myocardial Infarction,2026_Q1,Logistic Regression,58
+COSYNTROPIN || ACUTE KIDNEY INJURY,0,0.109544792823693,Cosyntropin,Acute Kidney Injury,2026_Q1,Logistic Regression,59
+GRISEOFULVIN || ACUTE KIDNEY INJURY,0,0.1084838205934146,Griseofulvin,Acute Kidney Injury,2026_Q1,Logistic Regression,60
+SUMATRIPTAN || ACUTE MYOCARDIAL INFARCTION,1,0.1074097308712549,Sumatriptan,Acute Myocardial Infarction,2026_Q1,Logistic Regression,61
+MELOXICAM || GI BLEED,1,0.09806791728032,meloxicam,GI Bleed,2026_Q1,Logistic Regression,62
+POSACONAZOLE || ACUTE LIVER INJURY,1,0.0973900148337812,posaconazole,Acute Liver Injury,2026_Q1,Logistic Regression,63
+TEMAZEPAM || ACUTE MYOCARDIAL INFARCTION,0,0.0970025506686102,Temazepam,Acute Myocardial Infarction,2026_Q1,Logistic Regression,64
+BUSULFAN || ACUTE LIVER INJURY,1,0.0969969798490483,Busulfan,Acute Liver Injury,2026_Q1,Logistic Regression,65
+LACTULOSE || ACUTE MYOCARDIAL INFARCTION,0,0.0968124586167889,Lactulose,Acute Myocardial Infarction,2026_Q1,Logistic Regression,66
+TAMOXIFEN || ACUTE LIVER INJURY,1,0.0914122574032132,Tamoxifen,Acute Liver Injury,2026_Q1,Logistic Regression,67
+POTASSIUM CHLORIDE || GI BLEED,1,0.0903567681282337,Potassium Chloride,GI Bleed,2026_Q1,Logistic Regression,68
+INDOMETHACIN || ACUTE LIVER INJURY,1,0.0884418073397984,Indomethacin,Acute Liver Injury,2026_Q1,Logistic Regression,69
+KETOPROFEN || GI BLEED,1,0.0880620441191373,Ketoprofen,GI Bleed,2026_Q1,Logistic Regression,70
+FLUTICASONE || ACUTE LIVER INJURY,0,0.0864671711535541,fluticasone,Acute Liver Injury,2026_Q1,Logistic Regression,71
+CITALOPRAM || GI BLEED,1,0.0854054474377516,Citalopram,GI Bleed,2026_Q1,Logistic Regression,72
+EFAVIRENZ || ACUTE LIVER INJURY,1,0.0842506044945328,efavirenz,Acute Liver Injury,2026_Q1,Logistic Regression,73
+DICYCLOMINE || ACUTE MYOCARDIAL INFARCTION,0,0.0833906154385565,Dicyclomine,Acute Myocardial Infarction,2026_Q1,Logistic Regression,74
+LACTULOSE || ACUTE LIVER INJURY,0,0.0832767467456019,Lactulose,Acute Liver Injury,2026_Q1,Logistic Regression,75
+EPOETIN ALFA || ACUTE MYOCARDIAL INFARCTION,1,0.0810605620630759,Epoetin Alfa,Acute Myocardial Infarction,2026_Q1,Logistic Regression,76
+ERYTHROMYCIN || ACUTE LIVER INJURY,1,0.0798196225053929,Erythromycin,Acute Liver Injury,2026_Q1,Logistic Regression,77
+PIROXICAM || ACUTE LIVER INJURY,1,0.0725919348704096,Piroxicam,Acute Liver Injury,2026_Q1,Logistic Regression,78
+FELBAMATE || ACUTE LIVER INJURY,1,0.0718264566492262,felbamate,Acute Liver Injury,2026_Q1,Logistic Regression,79
+CLINDAMYCIN || GI BLEED,1,0.071719854144407,Clindamycin,GI Bleed,2026_Q1,Logistic Regression,80
+DACARBAZINE || ACUTE LIVER INJURY,1,0.0694095743324617,Dacarbazine,Acute Liver Injury,2026_Q1,Logistic Regression,81
+SITAGLIPTIN || ACUTE LIVER INJURY,0,0.0687957249087105,sitagliptin,Acute Liver Injury,2026_Q1,Logistic Regression,82
+LACTULOSE || GI BLEED,0,0.0681149264106351,Lactulose,GI Bleed,2026_Q1,Logistic Regression,83
+NORTRIPTYLINE || ACUTE LIVER INJURY,1,0.0680850620606954,Nortriptyline,Acute Liver Injury,2026_Q1,Logistic Regression,84
+VALPROATE || ACUTE LIVER INJURY,1,0.0638030275693803,Valproate,Acute Liver Injury,2026_Q1,Logistic Regression,85
+LAMIVUDINE || ACUTE LIVER INJURY,1,0.0625445997662534,Lamivudine,Acute Liver Injury,2026_Q1,Logistic Regression,86
+TERBINAFINE || ACUTE LIVER INJURY,1,0.0619471727327254,terbinafine,Acute Liver Injury,2026_Q1,Logistic Regression,87
+CASPOFUNGIN || ACUTE LIVER INJURY,1,0.0614577562726136,Caspofungin,Acute Liver Injury,2026_Q1,Logistic Regression,88
+METHYLDOPA || ACUTE LIVER INJURY,1,0.0610700383512751,Methyldopa,Acute Liver Injury,2026_Q1,Logistic Regression,89
+PENICILLAMINE || ACUTE LIVER INJURY,1,0.0603722367645043,Penicillamine,Acute Liver Injury,2026_Q1,Logistic Regression,90
+DISULFIRAM || ACUTE LIVER INJURY,1,0.0600206164598018,Disulfiram,Acute Liver Injury,2026_Q1,Logistic Regression,91
+ORLISTAT || ACUTE LIVER INJURY,1,0.0597548793763985,orlistat,Acute Liver Injury,2026_Q1,Logistic Regression,92
+ITRACONAZOLE || GI BLEED,0,0.0538385373338086,Itraconazole,GI Bleed,2026_Q1,Logistic Regression,93
+NIFEDIPINE || ACUTE MYOCARDIAL INFARCTION,1,0.0397538579483434,Nifedipine,Acute Myocardial Infarction,2026_Q1,Logistic Regression,94
+SODIUM PHOSPHATE MONOBASIC || ACUTE MYOCARDIAL INFARCTION,0,0.0188046696430651,"Sodium Phosphate, Monobasic",Acute Myocardial Infarction,2026_Q1,Logistic Regression,95
+DACARBAZINE || GI BLEED,0,0.0185556843435946,Dacarbazine,GI Bleed,2026_Q1,Logistic Regression,96
+FLUTICASONE || ACUTE MYOCARDIAL INFARCTION,0,0.0169823301096977,fluticasone,Acute Myocardial Infarction,2026_Q1,Logistic Regression,97
+DARBEPOETIN ALFA || ACUTE MYOCARDIAL INFARCTION,1,0.0137539147665769,darbepoetin alfa,Acute Myocardial Infarction,2026_Q1,Logistic Regression,98
+RIZATRIPTAN || ACUTE MYOCARDIAL INFARCTION,1,0.0126513929463603,rizatriptan,Acute Myocardial Infarction,2026_Q1,Logistic Regression,99
+KETOROLAC || GI BLEED,1,0.0120894595635165,Ketorolac,GI Bleed,2026_Q1,Logistic Regression,100
+METHIMAZOLE || ACUTE MYOCARDIAL INFARCTION,0,0.0096313180334999,Methimazole,Acute Myocardial Infarction,2026_Q1,Logistic Regression,101
+FLURBIPROFEN || ACUTE MYOCARDIAL INFARCTION,1,0.0096283071271981,Flurbiprofen,Acute Myocardial Infarction,2026_Q1,Logistic Regression,102
+SUCRALFATE || GI BLEED,0,0.0064392878384929,Sucralfate,GI Bleed,2026_Q1,Logistic Regression,103

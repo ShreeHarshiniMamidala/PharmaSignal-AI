@@ -1,0 +1,3 @@
+dataset,input_rows,missing_required_rows_removed,duplicate_report_drug_event_rows_removed,signal_pairs,unique_suspect_drugs,unique_adverse_events,total_reports,pairs_meeting_min_support,pairs_ror_lower_ci_gt_1,pairs_prr_gt_2,missing_ror,missing_prr,missing_ic
+2025,16296363,0,0,1476886,11188,16541,1390248,377251,892821,1089095,0,5774,0
+2026_Q1,4420077,0,0,702328,7456,12085,369049,163076,495897,583973,0,5502,0

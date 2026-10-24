@@ -1,0 +1,3 @@
+dataset,rows,unique_reports,unique_suspect_drugs,unique_adverse_events,unique_drug_event_pairs,duplicate_report_drug_event_rows,missing_safetyreportid,missing_suspect_drug,missing_adverse_event,age_missing,age_invalid,age_min,age_max,age_mean,max_num_drugs,max_num_reactions,zero_num_drugs,zero_num_reactions,rows_num_drugs_gt_100,rows_num_reactions_gt_50,metadata_rows,row_count_matches
+2025 DEVELOPMENT,16296363,1390248,11188,16541,1476886,0,0,0,0,4345733,337,0.0,962.0,50.8639661618857,2594,226,0,0,7041395,5703259,16296363,True
+2026 Q1 TEMPORAL TEST,4420077,369049,7456,12085,702328,0,0,0,0,929810,16,0.0,700.0,51.355847106700125,2664,217,0,0,2182830,1672664,4420077,True

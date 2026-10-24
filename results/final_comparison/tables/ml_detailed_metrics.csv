@@ -1,0 +1,7 @@
+dataset,method,method_group,accuracy,precision,recall,f1,auroc,pr_auc,n_controls,positive_controls,negative_controls
+2025,Logistic Regression,Machine Learning,0.6913,0.831,0.6344,0.7195,0.8024,0.8882,149,93,56
+2025,Random Forest,Machine Learning,0.7785,0.8191,0.828,0.8235,0.8337,0.9028,149,93,56
+2025,Gradient Boosting,Machine Learning,0.7718,0.8315,0.7957,0.8132,0.811,0.8888,149,93,56
+2026_Q1,Logistic Regression,Machine Learning,,0.9375,0.2,0.3297,0.6452,0.8519,103,75,28
+2026_Q1,Random Forest,Machine Learning,,0.8235,0.56,0.6667,0.599,0.8121,103,75,28
+2026_Q1,Gradient Boosting,Machine Learning,,0.8125,0.8667,0.8387,0.7438,0.8846,103,75,28

@@ -1,0 +1,104 @@
+raw_key,normalized_key,groundTruth,exposureId,exposureName,outcomeId,outcomeName,standardized_outcome,source
+1036228__500001003,1036228__500001003,0,1036228,Sucralfate,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1115008__500000301,1115008__500000301,1,1115008,Naproxen,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1115008__500000401,1115008__500000401,1,1115008,Naproxen,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1115008__500001003,1115008__500001003,1,1115008,Naproxen,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1118084__500000301,1118084__500000301,1,1118084,celecoxib,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1136601__500000401,1136601__500000401,0,1136601,benzonatate,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1136980__500001003,1136980__500001003,1,1136980,Ketorolac,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1140643__500000801,1140643__500000801,1,1140643,Sumatriptan,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1146810__500000301,1146810__500000301,1,1146810,Piroxicam,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1149380__500000301,1149380__500000301,0,1149380,fluticasone,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1149380__500000801,1149380__500000801,0,1149380,fluticasone,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1150345__500000401,1150345__500000401,1,1150345,meloxicam,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1150345__500001003,1150345__500001003,1,1150345,meloxicam,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1154077__500000801,1154077__500000801,1,1154077,rizatriptan,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1156378__500000801,1156378__500000801,1,1156378,Flurbiprofen,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1167322__500000301,1167322__500000301,1,1167322,Allopurinol,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1167322__500000401,1167322__500000401,1,1167322,Allopurinol,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1177480__500000301,1177480__500000301,1,1177480,Ibuprofen,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1177480__500000401,1177480__500000401,1,1177480,Ibuprofen,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1177480__500001003,1177480__500001003,1,1177480,Ibuprofen,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1178663__500000301,1178663__500000301,1,1178663,Indomethacin,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1178663__500000801,1178663__500000801,1,1178663,Indomethacin,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1178663__500001003,1178663__500001003,1,1178663,Indomethacin,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1185922__500000401,1185922__500000401,1,1185922,Ketoprofen,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1185922__500001003,1185922__500001003,1,1185922,Ketoprofen,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1195492__500000401,1195492__500000401,1,1195492,Etodolac,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1301125__500000801,1301125__500000801,1,1301125,Epoetin Alfa,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1304107__500000301,1304107__500000301,1,1304107,imatinib,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1304643__500000801,1304643__500000801,1,1304643,darbepoetin alfa,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1305058__500000301,1305058__500000301,1,1305058,Methotrexate,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1305447__500000301,1305447__500000301,1,1305447,Methyldopa,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1308216__500000301,1308216__500000301,1,1308216,Lisinopril,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1308216__500000401,1308216__500000401,1,1308216,Lisinopril,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1311409__500000301,1311409__500000301,1,1311409,Dacarbazine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1311409__500001003,1311409__500001003,0,1311409,Dacarbazine,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1312742__500000401,1312742__500000401,1,1312742,Olmesartan medoxomil,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1314924__500000301,1314924__500000301,1,1314924,gemcitabine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1318853__500000301,1318853__500000301,1,1318853,Nifedipine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1318853__500000801,1318853__500000801,1,1318853,Nifedipine,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1322184__500001003,1322184__500001003,1,1322184,clopidogrel,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1328165__500000301,1328165__500000301,1,1328165,Diltiazem,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1332418__500000801,1332418__500000801,1,1332418,Amlodipine,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1333357__500000301,1333357__500000301,1,1333357,Busulfan,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1334456__500000301,1334456__500000301,1,1334456,Ramipril,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1336825__500000301,1336825__500000301,1,1336825,bortezomib,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1351557__500000401,1351557__500000401,1,1351557,candesartan,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1396012__500000801,1396012__500000801,0,1396012,ferrous gluconate,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1436678__500000301,1436678__500000301,1,1436678,Tamoxifen,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1504620__500000801,1504620__500000801,0,1504620,Methimazole,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1580747__500000301,1580747__500000301,0,1580747,sitagliptin,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1703653__500001003,1703653__500001003,0,1703653,Itraconazole,500001003,HOI Upper GI #3,GI Bleed,Traditional
+1703687__500000401,1703687__500000401,1,1703687,Acyclovir,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1704139__500000301,1704139__500000301,1,1704139,posaconazole,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1704183__500000301,1704183__500000301,1,1704183,Lamivudine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1714277__500000301,1714277__500000301,1,1714277,voriconazole,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1715472__500000801,1715472__500000801,0,1715472,Nelfinavir,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1718054__500000301,1718054__500000301,1,1718054,Caspofungin,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1724869__500000801,1724869__500000801,0,1724869,Didanosine,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1738135__500000301,1738135__500000301,1,1738135,efavirenz,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1741309__500000301,1741309__500000301,1,1741309,terbinafine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1742253__500000301,1742253__500000301,1,1742253,Levofloxacin,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1746940__500000301,1746940__500000301,1,1746940,Erythromycin,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1754994__500000301,1754994__500000301,1,1754994,Fluconazole,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1756831__500000401,1756831__500000401,0,1756831,darunavir,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1763204__500000301,1763204__500000301,1,1763204,Rifampin,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1763779__500000401,1763779__500000401,0,1763779,Griseofulvin,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+1769389__500000801,1769389__500000801,0,1769389,Nevirapine,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1781406__500000801,1781406__500000801,0,1781406,Stavudine,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+1782521__500000301,1782521__500000301,1,1782521,isoniazid,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+1797513__500000301,1797513__500000301,1,1797513,Ciprofloxacin,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+19008009__500000401,19008009__500000401,0,19008009,Cosyntropin,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+19010482__500000301,19010482__500000301,1,19010482,Cyclosporine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+19010482__500000401,19010482__500000401,1,19010482,Cyclosporine,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+19028050__500000301,19028050__500000301,1,19028050,Penicillamine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+19049105__500001003,19049105__500001003,1,19049105,Potassium Chloride,500001003,HOI Upper GI #3,GI Bleed,Traditional
+705103__500000301,705103__500000301,1,705103,lamotrigine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+715939__500001003,715939__500001003,1,715939,Escitalopram,500001003,HOI Upper GI #3,GI Bleed,Traditional
+721724__500000301,721724__500000301,1,721724,Nortriptyline,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+735850__500000301,735850__500000301,1,735850,Disulfiram,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+739138__500001003,739138__500001003,1,739138,Sertraline,500001003,HOI Upper GI #3,GI Bleed,Traditional
+740275__500000301,740275__500000301,1,740275,Carbamazepine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+741530__500000301,741530__500000301,1,741530,orlistat,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+745466__500000301,745466__500000301,1,745466,Valproate,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+755695__500001003,755695__500001003,1,755695,Fluoxetine,500001003,HOI Upper GI #3,GI Bleed,Traditional
+795661__500000301,795661__500000301,1,795661,felbamate,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+797617__500001003,797617__500001003,1,797617,Citalopram,500001003,HOI Upper GI #3,GI Bleed,Traditional
+800878__500000301,800878__500000301,1,800878,Clozapine,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+800878__500000401,800878__500000401,0,800878,Clozapine,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+836715__500000401,836715__500000401,0,836715,Temazepam,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+836715__500000801,836715__500000801,0,836715,Temazepam,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+920293__500000301,920293__500000301,1,920293,Nitrofurantoin,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+924724__500000401,924724__500000401,0,924724,Dicyclomine,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+924724__500000801,924724__500000801,0,924724,Dicyclomine,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+937368__500000301,937368__500000301,1,937368,infliximab,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+937368__500000401,937368__500000401,0,937368,infliximab,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+974166__500000401,974166__500000401,1,974166,Hydrochlorothiazide,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+985708__500000401,985708__500000401,0,985708,Ketoconazole,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+987245__500000301,987245__500000301,0,987245,Lactulose,500000301,OMOP Acute Liver Failure 1,Acute Liver Injury,Traditional
+987245__500000401,987245__500000401,0,987245,Lactulose,500000401,OMOP Acute Renal Failure 1,Acute Kidney Injury,Traditional
+987245__500000801,987245__500000801,0,987245,Lactulose,500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+987245__500001003,987245__500001003,0,987245,Lactulose,500001003,HOI Upper GI #3,GI Bleed,Traditional
+990499__500000801,990499__500000801,0,990499,"Sodium Phosphate, Monobasic",500000801,OMOP Acute myocardial Infarction  1,Acute Myocardial Infarction,Traditional
+997881__500001003,997881__500001003,1,997881,Clindamycin,500001003,HOI Upper GI #3,GI Bleed,Traditional

@@ -1,0 +1,213 @@
+
+PHARMAAI - FINAL RESULTS AND CONCLUSIONS
+========================================
+
+EVALUATION DESIGN
+-----------------
+The evaluation used an external OMOP reference set rather than
+ROR, PRR, or IC-derived labels. This avoids using the traditional
+methods themselves to define the machine-learning ground truth.
+
+The 2025 period was used for model development. Machine-learning
+performance for 2025 was evaluated using stratified 5-fold
+out-of-fold predictions.
+
+The 2026 Q1 period was used as a later temporal evaluation period.
+
+The final aligned comparison contained:
+- 149 OMOP controls in 2025
+- 103 OMOP controls in 2026 Q1
+
+All six methods were verified to use the same canonical OMOP
+control universe for the final Top-K comparison.
+
+
+RQ1
+---
+To what extent do machine-learning models improve identification
+and prioritization of potential drug-adverse-event safety signals
+compared with traditional disproportionality methods?
+
+RESULT:
+
+Machine-learning methods showed substantially stronger ranking
+performance than ROR, PRR, and IC within the evaluated
+OMOP-matched FAERS reference set.
+
+In 2025:
+
+Random Forest achieved:
+- AUROC = 0.8337
+- PR-AUC = 0.9028
+
+The strongest traditional result was ROR:
+- AUROC = 0.5346
+- PR-AUC = 0.6252
+
+Therefore, compared with the strongest traditional method,
+Random Forest improved:
+
+- AUROC by approximately 0.299
+- PR-AUC by approximately 0.278
+
+These results indicate stronger discrimination and prioritization
+of reference-positive versus reference-negative controls by the
+machine-learning models in the evaluated reference set.
+
+
+RQ2
+---
+How do Logistic Regression, Random Forest, and Gradient Boosting
+compare with ROR, PRR, and IC?
+
+2025 MACHINE-LEARNING RESULTS
+-----------------------------
+
+Logistic Regression:
+- Accuracy = 69.13%
+- Precision = 83.10%
+- Recall = 63.44%
+- F1 = 71.95%
+- AUROC = 0.8024
+- PR-AUC = 0.8882
+
+Random Forest:
+- Accuracy = 77.85%
+- Precision = 81.91%
+- Recall = 82.80%
+- F1 = 82.35%
+- AUROC = 0.8337
+- PR-AUC = 0.9028
+
+Gradient Boosting:
+- Accuracy = 77.18%
+- Precision = 83.15%
+- Recall = 79.57%
+- F1 = 81.32%
+- AUROC = 0.8110
+- PR-AUC = 0.8888
+
+Random Forest produced the strongest overall 2025 development
+performance, including the highest accuracy, F1, AUROC, and
+PR-AUC among the three machine-learning models.
+
+
+2026 Q1 TEMPORAL RESULTS
+------------------------
+
+Gradient Boosting showed the strongest overall temporal
+performance:
+
+- Precision = 81.25%
+- Recall = 86.67%
+- F1 = 83.87%
+- AUROC = 0.7438
+- PR-AUC = 0.8846
+
+This suggests that Gradient Boosting maintained stronger
+performance in the later evaluation period than the other
+machine-learning models.
+
+Logistic Regression had high precision but substantially lower
+recall in 2026 Q1, indicating that it identified fewer of the
+positive controls at the fixed 0.50 classification threshold.
+
+
+TOP-K PRIORITIZATION
+--------------------
+
+The Top-K evaluation directly measured how effectively each
+method prioritized known positive controls near the top of its
+ranking.
+
+For 2025:
+
+At K=10:
+- Logistic Regression: 10/10 positives
+- Random Forest: 10/10 positives
+- Gradient Boosting: 10/10 positives
+- ROR: 6/10 positives
+- PRR: 6/10 positives
+- IC: 5/10 positives
+
+At K=20:
+- Logistic Regression: 20/20 positives
+- Random Forest: 20/20 positives
+- Gradient Boosting: 20/20 positives
+- ROR: 11/20 positives
+- PRR: 11/20 positives
+- IC: 11/20 positives
+
+This provides strong evidence that the machine-learning methods
+were more effective at early prioritization within the evaluated
+2025 control set.
+
+
+For 2026 Q1:
+
+At K=10:
+- Logistic Regression: 10/10 positives
+- Random Forest: 8/10 positives
+- Gradient Boosting: 10/10 positives
+- ROR: 4/10 positives
+- PRR: 5/10 positives
+- IC: 5/10 positives
+
+At K=20:
+- Logistic Regression: 18/20 positives
+- Random Forest: 16/20 positives
+- Gradient Boosting: 19/20 positives
+- ROR: 12/20 positives
+- PRR: 12/20 positives
+- IC: 12/20 positives
+
+Gradient Boosting therefore demonstrated particularly strong
+prioritization in the later temporal period.
+
+
+OVERALL CONCLUSION
+------------------
+
+Within the evaluated OMOP-matched FAERS reference set, the
+machine-learning approaches provided stronger discrimination and
+early prioritization of reference-positive drug-outcome controls
+than the traditional ROR, PRR, and IC methods.
+
+Random Forest showed the strongest overall development-period
+performance in 2025, while Gradient Boosting showed the strongest
+overall performance in the 2026 Q1 temporal evaluation.
+
+The results support the use of machine learning as a
+prioritization aid for pharmacovigilance signal review rather
+than as a replacement for clinical or regulatory assessment.
+
+The identified drug-event associations should therefore be
+interpreted as potential safety-signal candidates requiring
+further review, not as evidence that a drug caused an adverse
+event.
+
+
+IMPORTANT LIMITATIONS
+---------------------
+
+1. The external reference evaluation contains a relatively small
+   number of matched OMOP controls.
+
+2. The 2026 Q1 evaluation is temporal, but many controls overlap
+   with those present in 2025. It should not be described as a
+   completely unseen-control validation set.
+
+3. The 2025 period covers a full year whereas 2026 Q1 covers one
+   quarter, which can affect count-derived features.
+
+4. The OMOP-to-FAERS outcome mapping is a narrow project mapping
+   and should not be described as an officially validated MedDRA
+   SMQ mapping.
+
+5. FAERS is a spontaneous-reporting database. Disproportionality
+   patterns and model predictions do not establish causality.
+
+6. These findings therefore support prioritization performance
+   within the evaluated reference set and should not be
+   generalized as proof that machine learning universally
+   outperforms traditional pharmacovigilance methods.

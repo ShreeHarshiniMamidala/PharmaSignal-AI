@@ -1,0 +1,2 @@
+model,evaluation,accuracy
+Random Forest,2025_5fold_stratified_oof,0.7785234899328859

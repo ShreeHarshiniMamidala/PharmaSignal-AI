@@ -1,0 +1,13 @@
+omop_outcome,faers_adverse_event,mapping_status,mapping_basis,total_pair_report_count,datasets_present
+Acute Kidney Injury,ACUTE KIDNEY INJURY,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,34872,2
+Acute Kidney Injury,RENAL TUBULAR NECROSIS,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,1702,2
+Acute Liver Injury,DRUG-INDUCED LIVER INJURY,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,35317,2
+Acute Myocardial Infarction,MYOCARDIAL INFARCTION,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,11517,2
+Acute Myocardial Infarction,CARDIOGENIC SHOCK,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,9463,2
+Acute Myocardial Infarction,ACUTE MYOCARDIAL INFARCTION,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,3112,2
+Acute Myocardial Infarction,MYOCARDIAL STUNNING,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,92,2
+GI Bleed,GASTROINTESTINAL HAEMORRHAGE,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,7574,2
+GI Bleed,HAEMATEMESIS,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,6565,2
+GI Bleed,MELAENA,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,2632,2
+GI Bleed,UPPER GASTROINTESTINAL HAEMORRHAGE,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,1954,2
+GI Bleed,PEPTIC ULCER HAEMORRHAGE,APPROVED_NARROW,Narrow reference-aligned outcome representation; term observed in PharmaAI FAERS vocabulary,209,2

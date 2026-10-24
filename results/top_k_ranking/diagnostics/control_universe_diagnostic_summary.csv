@@ -1,0 +1,11 @@
+dataset,left_source,right_source,left_controls,right_controls,raw_key_overlap,normalized_key_overlap,left_only_after_normalization,right_only_after_normalization,status,label_disagreements
+2025,Logistic Regression,Random Forest,149,149,149,149,0,0,SAME_AFTER_NORMALIZATION,0
+2025,Logistic Regression,Gradient Boosting,149,149,149,149,0,0,SAME_AFTER_NORMALIZATION,0
+2025,Logistic Regression,Traditional,149,149,0,0,149,149,DIFFERENT_CONTROLS,0
+2025,Random Forest,Traditional,149,149,0,0,149,149,DIFFERENT_CONTROLS,0
+2025,Gradient Boosting,Traditional,149,149,0,0,149,149,DIFFERENT_CONTROLS,0
+2026_Q1,Logistic Regression,Random Forest,103,103,103,103,0,0,SAME_AFTER_NORMALIZATION,0
+2026_Q1,Logistic Regression,Gradient Boosting,103,103,103,103,0,0,SAME_AFTER_NORMALIZATION,0
+2026_Q1,Logistic Regression,Traditional,103,103,0,0,103,103,DIFFERENT_CONTROLS,0
+2026_Q1,Random Forest,Traditional,103,103,0,0,103,103,DIFFERENT_CONTROLS,0
+2026_Q1,Gradient Boosting,Traditional,103,103,0,0,103,103,DIFFERENT_CONTROLS,0

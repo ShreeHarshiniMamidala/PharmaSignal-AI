@@ -1,0 +1,5 @@
+dataset,comparison,method,score
+2025,Best AUROC,Random Forest,0.8337
+2025,Best PR-AUC,Random Forest,0.9028
+2026_Q1,Best AUROC,Gradient Boosting,0.7438
+2026_Q1,Best PR-AUC,Gradient Boosting,0.8846

@@ -1,0 +1,3 @@
+dataset,omop_controls_total,omop_positive_total,omop_negative_total,reference_drugs_total,reference_drugs_found,approved_events_total,approved_events_found,matched_mapped_pair_rows,matched_controls_total,matched_positive_controls,matched_negative_controls,control_coverage
+2025,399,165,234,182,164,12,12,209,149,93,56,0.37343358395989973
+2026_Q1,399,165,234,182,143,12,12,139,103,75,28,0.2581453634085213

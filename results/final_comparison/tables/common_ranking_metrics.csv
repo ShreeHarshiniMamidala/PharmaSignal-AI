@@ -1,0 +1,13 @@
+dataset,method,method_group,n_controls,positive_controls,negative_controls,auroc,pr_auc
+2025,Logistic Regression,Machine Learning,149,93,56,0.8024,0.8882
+2025,Random Forest,Machine Learning,149,93,56,0.8337,0.9028
+2025,Gradient Boosting,Machine Learning,149,93,56,0.811,0.8888
+2025,ROR,Traditional,149,93,56,0.5345622119815668,0.6251750631187876
+2025,PRR,Traditional,149,93,56,0.5343701996927803,0.6246169745737338
+2025,IC,Traditional,149,93,56,0.5328341013824885,0.6226990523026938
+2026_Q1,Logistic Regression,Machine Learning,103,75,28,0.6452,0.8519
+2026_Q1,Random Forest,Machine Learning,103,75,28,0.599,0.8121
+2026_Q1,Gradient Boosting,Machine Learning,103,75,28,0.7438,0.8846
+2026_Q1,ROR,Traditional,103,75,28,0.4909523809523809,0.6883918201765952
+2026_Q1,PRR,Traditional,103,75,28,0.4985714285714286,0.7013574067651778
+2026_Q1,IC,Traditional,103,75,28,0.4935714285714285,0.6943997442153852
